@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<!---------->
+
+<head>
+
+<title>rmkmapper</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="stylesheet" href="ui/css/rmkmapper.css" />
+<link rel="stylesheet" href="ui/css/south-street/jquery-ui-1.8.21.custom.css" />
+
+<script type="text/javascript" src="ui/js/json2.js"></script>
+<script type="text/javascript" src="ui/js/jquery.js"></script>
+<script type="text/javascript" src="ui/js/jquery-ui.js"></script>
+<script type="text/javascript" src="ui/js/rmkmapper.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpCClnVvqnL4TxHprPDIQ1V0IWOKszjO0&sensor=false"></script>
+<script type="text/javascript" src="ui/js/styledmarker.js"></script>
+
+</head>
+
+<!---------->
+
+<body>
+
+<h1>rmkmapper</h1>
+
+<div id="container">
+	<div id="accordion">
+		<h3><a href="#">Tutvustus</a></h3>
+			<div>
+				<p>
+				Käesolev rakendus kaardistab <a href="http://rmk.ee/teemad/looduses-liikujale/">Riigimetsa
+				Majandamise Keskuse</a> puhke- ja hariduslikud objektid. Kliki kaardimarkeril, et näha põgusat
+				ülevaadet asukohast, varustusest ja vaatamisväärsustest. Infokasti all paremas nurgas on
+				näha telgi või lõkke embleemi, kui objekti juures on vastavalt telkimisvõimalus või kattega
+				lõkkeplats. Detailsema info saamiseks on võimalik hüpata RMK lehele või Regio veebiatlasesse.
+				Paanis <i>Filter</i> saab objekte kategooriate kaupa filtreerida. Kaardistatud on ainult need
+				objektid, mille jaoks RMK on avaldanud koordinaadid (umbes 2/3 kõigist).
+				</p>
+
+				<p class="smalltext">
+				Graafika &copy: Kenneth Von Alt, <a href="http://thenounproject.com/">The Noun Project</a>,
+				<a href="http://www.famfamfam.com">famfamfam</a>.
+				</p>
+			</div>
+		<h3><a href="#">Filter</a></h3>
+			<div id="acc_filter">
+				<p>
+				<a href="javascript:void(0)" id="filter_sel_all"><img src="ui/img/accept.png" alt="Kõik" title="Vali kõik"></a>
+				<a href="javascript:void(0)" id="filter_sel_none"><img src="ui/img/cross.png" alt="Ei midagi" title="Kustuta kõik"></a>
+				</p>
+			</div>
+		<h3><a href="#">Tehniline</a></h3>
+			<div>
+				<p>
+				<a href="rmk.json">rmk.json</a> -
+				JSON-vormingus masinkäideldav nimekiri RMK objektidest
+				</p>
+
+				<p>
+				<a href="mod/LEST97.pm">LEST97.pm</a> -
+				Perli moodul L-EST 97 koordinaatide ning WSG84 pikkus- ja laiuskraadide vahel teisendamiseks
+				</p>
+			</div>
+	</div>
+	<div id="map"></div>
+</div>
+
+<div id="footer">
+rmkmapper 2012-2016 | <a href="https://github.com/tambeta/rmkmapper">GitHub</a>
+</div>
+
+</body>
+</html>
