@@ -1,6 +1,6 @@
-rmkmapper
+# rmkmapper
 
-# Rationale
+## Rationale
 
 The Estonian State Forest Management Centre maintains many [recreational
 sites](http://loodusegakoos.ee/en) (or points of interest in rmkmapper's
@@ -26,7 +26,7 @@ rmkmapper solves these issues by:
 In addition, this project provides a Perl module for conversion between
 the L-EST 97 and WSG84 (latitude / longitude) coordinate systems.
 
-# Command-line tool
+## Command-line tool
 
 The CLI tool requires a reasonably recent version of Perl 5,
 HTML::TreeBuilder, JSON::XS, LWP::Simple.
@@ -52,7 +52,7 @@ Print a JSON string representing all RMK objects.
 --max-num, -n   - Maximum number of POIs to parse, for debugging
 ```
 
-# Notes
+## Notes
 
 This is a legacy project not under active development. Feel free to fork
 and improve.
