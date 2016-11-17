@@ -18,7 +18,7 @@ rmkmapper solves these issues by:
 * providing a command-line tool to crawl SFMC's web site and compile a
   machine-readable dump of all the POIs
 * providing a simple web application displaying a zoomable, filterable,
-  interactive map of all the POIs.
+  interactive map of all the POIs
 
 **An occasionally updated [demo is available]
 (http://biit.cs.ut.ee/~arak/projects/rmk/)**.
