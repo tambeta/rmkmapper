@@ -389,6 +389,9 @@ sub parse_cmdline {
 	if ($o{tracks} && $o{pois}) {
 		die("Specify one of --tracks, --pois.\n");
 	}
+	elsif (!$o{tracks} && !$o{pois}) {
+		$o{pois} = 1;
+	}
 
 	\%o;
 }
@@ -459,7 +462,7 @@ sub main {
 		unlink($gdbfn, $txtfn);
 	}
 
-	print JSON::XS->new->utf8->pretty(1)->encode($r);
+	print JSON::XS->new->utf8->canonical->pretty(1)->encode($r);
 }
 
 main();
