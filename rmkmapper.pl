@@ -18,9 +18,10 @@ use LWP::Simple;
 use Time::HiRes qw(time usleep);
 
 use constant {
-	RQ_DELAY 	=> 4000,	# rq delay in ms
-	ROOT_URL	=> "http://eid.ee/3te",
-	GPSBABEL	=> "gpsbabel",
+	RQ_DELAY 		=> 4000,	# rq delay in ms
+	ROOT_URL		=> "http://eid.ee/3te",
+	GPSBABEL		=> "gpsbabel",
+	UNLINK_TMPFILES	=> 1,
 };
 
 my %g = (
@@ -263,37 +264,40 @@ sub normalize_poi_index {
 sub tracks_parse {
 
 	# Parse a Garmin MapSource tab-delimited text format into an arrayref of
-	# hashrefs representing tracks. Multiple tracks not yet supported.
+	# hashrefs representing tracks.
 
 	my ($fn) = @_;
 
-	my $curr_track;
-	my $curr_dist;
-	my %track = (
-		name 		=> undef,
-		waypoints	=> [],
-	);
+	my $track_name;
+	my $track_length;
+	my @tracks;
 
 	open(T, "<", $fn)
 		or die("Cannot open $fn for reading");
 	while(<T>) {
 		if (/^Track\t/) {
 			my @f = split(/\t/);
-			$curr_track || $curr_dist
-				and die("Multiple tracks not yet supported, but encountered in $fn");
-			$curr_track = $f[1];
-			$curr_dist = $f[4];
-			$track{name} = $curr_track;
+
+			$track_name = $f[1];
+			$track_length = $f[4];
+
+			die("Unable to get track name from $fn")
+				unless ($track_name);
+			push(@tracks, {
+				name		=> $track_name,
+				distance	=> $track_length,
+				waypoints	=> []
+			});
 		}
-		elsif ($curr_track && /^Trackpoint\t/) {
+		elsif ($track_name && /^Trackpoint\t/) {
 			my @f = split(/\t/);
 			my $pos = $f[1]; $pos =~ s/[NE]//g;
-			push(@{$track{waypoints}}, [split(/\s+/, $pos)]);
+			push(@{$tracks[-1]->{waypoints}}, [map(0.0 + $_, split(/\s+/, $pos))]);
 		}
 	}
 
 	close(T);
-	[\%track];
+	\@tracks;
 }
 
 # Utility functions
@@ -348,36 +352,39 @@ sub lwp_store {
 }
 
 sub sys_run {
-	
+
 	# A simple wrapper around system(), throwing an exception on error
-	# or process dying on an unhandled signal, otherwise returning 
-	# its return value. $procname is the name of the process to use 
+	# or process dying on an unhandled signal, otherwise returning
+	# its return value. $procname is the name of the process to use
 	# in exception messages (optional).
-	
+
 	my ($cmd, $procname) = @_;
 	my $r;
-	
-	$procname ||= "Child process";	
+
+	$procname ||= "Child process";
 	$r = system($cmd);
-	
+
 	if ($r == -1) {
 		die("$procname failed to execute: $!");
 	}
 	elsif ($r & 127) {
 		die("$procname died on signal " . ($r & 127));
 	}
-	
+
 	$r >> 8;
 }
 
 sub parse_cmdline {
+	Getopt::Long::Configure("bundling");
 	my %o;
 
 	GetOptions(\%o,
 		'pois|p',
 		'tracks|t=s',
+		'tracks-type|T=s',
 		'max-num|n=i',
 		'ofile-dir|d=s',
+		'ugly|u',
 		'help|h',
 	) or exit;
 
@@ -393,6 +400,10 @@ sub parse_cmdline {
 		$o{pois} = 1;
 	}
 
+	unless ($o{"tracks-type"}) {
+		$o{"tracks-type"} = "gpx";
+	}
+
 	\%o;
 }
 
@@ -403,17 +414,21 @@ rmkmapper.pl [-p | -t url] [-o dir]
 
 Print a JSON string representing all RMK objects.
 
---ofile-dir, -o - Directory containing pre-downloaded RMK object HTML files.
-                  Skip crawling for object files on the web. Note that this mode
-                  is more tolerant to errors, merely warning if a file cannot be
-                  parsed into an object. Use a command similar to the following
-                  to generate a local cache of object files in cwd:
+--ofile-dir, -o   - Directory containing pre-downloaded RMK object HTML files.
+                    Skip crawling for object files on the web. Note that this
+                    mode is more tolerant to errors, merely warning if a file
+                    cannot be parsed into an object. Use a command similar to
+                    the following to generate a local cache of object files in
+                    cwd:
 
-                  wget -O - http://eid.ee/3te | \
-                  wget -rLEnH -A '*.html' -l0 -Fi - -B http://loodusegakoos.ee
---pois, -p      - Generate an index of points of interest (default)
---tracks, -t    - Generate an index of tracks based on the passed Garmin GDB file
---max-num, -n   - Maximum number of POIs to parse, for debugging
+                    wget -O - http://eid.ee/3te | \
+                    wget -rLEnH -A '*.html' -l0 -Fi - -B http://loodusegakoos.ee
+--pois, -p        - Generate an index of points of interest (default)
+--tracks, -t      - Generate an index of tracks based on the passed GPS file or
+                    URL (requires gpsbabel on \$PATH)
+--tracks-type, -T - The type of the tracks file, passed to gpsbabel via -i
+--max-num, -n     - Maximum number of POIs to parse, for debugging
+--ugly, -u        - Print compact JSON with minimal whitespace
 END
 }
 
@@ -446,23 +461,26 @@ sub main {
 	# Generate track index
 
 	else {
-		my $url = $o->{tracks};
-		my $gdbfn = (tempfile())[1];
-		my $txtfn = (tempfile())[1];
-		my $cmd =
-			GPSBABEL . " -i gdb -f $gdbfn " .
+		my $gpsfn = $o->{tracks};
+		my $txtfn = (tempfile(UNLINK => UNLINK_TMPFILES))[1];
+		my $gpsfn_type = $o->{"tracks-type"};
+		my $cmd;
+
+		if ($gpsfn =~ /^http/) {
+			my $url = $gpsfn;
+
+			$gpsfn = (tempfile(UNLINK => UNLINK_TMPFILES))[1];
+			lwp_store($url, $gpsfn);
+		}
+
+		$cmd =
+			GPSBABEL . " -i $gpsfn_type -f $gpsfn " .
 			"-o garmin_txt,grid=ddd,prec=5 -c utf-8 -F $txtfn";
-
-		$url && $url =~ /^http/ or
-			die("--tracks requires a valid HTTP URL.\n");
-
-		lwp_store($url, $gdbfn);
 		sys_run($cmd);
 		$r = tracks_parse($txtfn);
-		unlink($gdbfn, $txtfn);
 	}
 
-	print JSON::XS->new->utf8->canonical->pretty(1)->encode($r);
+	print JSON::XS->new->utf8->canonical->pretty($o->{ugly} ? 0 : 1)->encode($r);
 }
 
 main();
