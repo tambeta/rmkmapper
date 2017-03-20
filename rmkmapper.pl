@@ -318,25 +318,36 @@ sub tracks_parse {
 			my @f = split(/\t/);
 
 			$track_name = $f[1];
-			$track_length = $f[4];
+			$track_length = ($f[4] =~ /^(\d+)/, $1);
 
 			die("Unable to get track name from $fn")
 				unless ($track_name);
 			push(@tracks, {
-				name		=> $track_name,
-				distance	=> $track_length,
-				waypoints	=> []
+				type		=> "Feature",
+				geometry 	=> {
+					type		=> "LineString",
+					coordinates	=> []
+				},
+				properties	=> {
+					name		=> $track_name,
+					length		=> int($track_length),
+				}
 			});
 		}
 		elsif ($track_name && /^Trackpoint\t/) {
 			my @f = split(/\t/);
 			my $pos = $f[1]; $pos =~ s/[NE]//g;
-			push(@{$tracks[-1]->{waypoints}}, [map(0.0 + $_, split(/\s+/, $pos))]);
+			my $coordbucket = $tracks[-1]->{geometry}{coordinates};
+
+			push(@$coordbucket, [map(0.0 + $_, reverse(split(/\s+/, $pos)))]);
 		}
 	}
 
 	close(T);
-	\@tracks;
+	return {
+		type		=> "FeatureCollection",
+		features	=> \@tracks
+	};
 }
 
 # Utility functions
