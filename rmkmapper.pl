@@ -157,10 +157,10 @@ sub object_parse {
 
 			($lat && $lon && $x && $y) ?
 				{
-					coord_lat	=> $lat,
-					coord_lon	=> $lon,
-					coord_x		=> $x,
-					coord_y		=> $y,
+					coord_lat	=> 0.0 + $lat,
+					coord_lon	=> 0.0 + $lon,
+					coord_x		=> 0.0 + $x,
+					coord_y		=> 0.0 + $y,
 				} : {};
 		},
 		"Vaatamisväärsused" => sub {
@@ -257,6 +257,45 @@ sub normalize_poi_index {
 	}
 
 	\@r;
+}
+
+sub geojsonify_poi_index {
+
+	# Turn the plain POI index (list of hashes) into a data structure
+	# serializable into valid GeoJSON.
+
+	my ($pois) = @_;
+	my @features;
+
+	foreach (@$pois) {
+		my $lat = $_->{coord_lat};
+		my $lon = $_->{coord_lon};
+		my %feat;
+
+		unless (defined($lon) && defined($lat)) {
+			dbg("Coordinates not defined for \"" . $_->{name} .
+				"\", but required for GeoJSON output, skipping");
+			next;
+		};
+
+		%feat = (
+			type		=> "Feature",
+			geometry	=> {
+				type		=> "Point",
+				coordinates	=> [0.0 + $lon, 0.0 + $lat]
+			},
+			properties 	=> $_
+		);
+
+		delete $_->{coord_lat};
+		delete $_->{coord_lon};
+		push(@features, \%feat);
+	}
+
+	return {
+		type		=> "FeatureCollection",
+		features	=> \@features
+	};
 }
 
 # Track functions
@@ -414,7 +453,7 @@ rmkmapper.pl [-p | -t url] [-o dir]
 
 Print a JSON string representing all RMK objects.
 
---ofile-dir, -o   - Directory containing pre-downloaded RMK object HTML files.
+--ofile-dir, -d   - Directory containing pre-downloaded RMK object HTML files.
                     Skip crawling for object files on the web. Note that this
                     mode is more tolerant to errors, merely warning if a file
                     cannot be parsed into an object. Use a command similar to
@@ -455,7 +494,7 @@ sub main {
 			$r = crawl_local($o->{'ofile-dir'}, undef, $n); }
 		else {
 			$r = crawl_web($n); }
-		$r = normalize_poi_index($r);
+		$r = geojsonify_poi_index(normalize_poi_index($r));
 	}
 
 	# Generate track index
