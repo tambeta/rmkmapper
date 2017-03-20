@@ -300,10 +300,41 @@ sub geojsonify_poi_index {
 
 # Track functions
 
+sub tracks_parse_all {
+
+	# Loop over all track files and combine these into a single GeoJSON dump.
+
+	my ($gpsfns, $gpsfn_type) = @_;
+	my @all_tracks;
+
+	foreach my $gpsfn (@$gpsfns) {
+		my $txtfn = (tempfile(UNLINK => UNLINK_TMPFILES))[1];
+		my $cmd;
+
+		if ($gpsfn =~ /^http/) {
+			my $url = $gpsfn;
+
+			$gpsfn = (tempfile(UNLINK => UNLINK_TMPFILES))[1];
+			lwp_store($url, $gpsfn);
+		}
+
+		$cmd =
+			GPSBABEL . " -i $gpsfn_type -f $gpsfn " .
+			"-o garmin_txt,grid=ddd,prec=5 -c utf-8 -F $txtfn";
+		sys_run($cmd);
+		push(@all_tracks, @{tracks_parse($txtfn)});
+	}
+
+	return {
+		type		=> "FeatureCollection",
+		features	=> \@all_tracks
+	};
+}
+
 sub tracks_parse {
 
-	# Parse a Garmin MapSource tab-delimited text format into an arrayref of
-	# hashrefs representing tracks.
+	# Parse a Garmin MapSource tab-delimited text format into a list of
+	# GeoJSON Features, ready to be wrapped in a FeatureCollection.
 
 	my ($fn) = @_;
 
@@ -344,10 +375,7 @@ sub tracks_parse {
 	}
 
 	close(T);
-	return {
-		type		=> "FeatureCollection",
-		features	=> \@tracks
-	};
+	return \@tracks;
 }
 
 # Utility functions
@@ -426,19 +454,19 @@ sub sys_run {
 
 sub parse_cmdline {
 	Getopt::Long::Configure("bundling");
-	my %o;
 
-	GetOptions(\%o,
+	my %o;
+	my $res = GetOptions(\%o,
 		'pois|p',
-		'tracks|t=s',
+		'tracks|t=s@',
 		'tracks-type|T=s',
 		'max-num|n=i',
 		'ofile-dir|d=s',
 		'ugly|u',
 		'help|h',
-	) or exit;
+	);
 
-	if ($o{help}) {
+	if ($o{help} || !$res) {
 		usage();
 		exit;
 	}
@@ -473,9 +501,10 @@ Print a JSON string representing all RMK objects.
 
                     wget -O - http://eid.ee/3te | \
                     wget -rLEnH -A '*.html' -l0 -Fi - -B http://loodusegakoos.ee
---pois, -p        - Generate an index of points of interest (default)
---tracks, -t      - Generate an index of tracks based on the passed GPS file or
-                    URL (requires gpsbabel on \$PATH)
+--pois, -p        - Generate a GeoJSON index of points of interest (default)
+--tracks, -t      - Generate a GeoJSON index of tracks based on the passed GPS
+                    file or URL (requires gpsbabel on \$PATH). Can be passed
+                    several times for a combined dump.
 --tracks-type, -T - The type of the tracks file, passed to gpsbabel via -i
 --max-num, -n     - Maximum number of POIs to parse, for debugging
 --ugly, -u        - Print compact JSON with minimal whitespace
@@ -511,23 +540,7 @@ sub main {
 	# Generate track index
 
 	else {
-		my $gpsfn = $o->{tracks};
-		my $txtfn = (tempfile(UNLINK => UNLINK_TMPFILES))[1];
-		my $gpsfn_type = $o->{"tracks-type"};
-		my $cmd;
-
-		if ($gpsfn =~ /^http/) {
-			my $url = $gpsfn;
-
-			$gpsfn = (tempfile(UNLINK => UNLINK_TMPFILES))[1];
-			lwp_store($url, $gpsfn);
-		}
-
-		$cmd =
-			GPSBABEL . " -i $gpsfn_type -f $gpsfn " .
-			"-o garmin_txt,grid=ddd,prec=5 -c utf-8 -F $txtfn";
-		sys_run($cmd);
-		$r = tracks_parse($txtfn);
+		$r = tracks_parse_all($o->{tracks}, $o->{"tracks-type"});
 	}
 
 	print JSON::XS->new->utf8->canonical->pretty($o->{ugly} ? 0 : 1)->encode($r);

@@ -227,6 +227,10 @@ function apply_rmk_objects(rmk_objects, map) {
 }
 
 function apply_rmk_tracks(rmk_tracks, map) {
+
+	// DEPRECATED: If desired, this needs to be modified to accept the new
+	// GeoJSON dump.
+
 	$.each(rmk_tracks, function(i, o) {
 		var path = [];
 		var polyline;
