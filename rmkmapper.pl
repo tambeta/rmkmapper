@@ -488,7 +488,7 @@ sub parse_cmdline {
 sub usage {
 print
 <<END
-rmkmapper.pl [-p | -t url] [-o dir]
+rmkmapper.pl [-p | -t url] [-o dir] [...]
 
 Print a JSON string representing all RMK objects.
 
