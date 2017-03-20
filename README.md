@@ -20,8 +20,7 @@ rmkmapper solves these issues by:
 * providing a simple web application displaying a zoomable, filterable,
   interactive map of all the POIs
 
-**An occasionally updated [demo is available]
-(http://biit.cs.ut.ee/~arak/projects/rmk/)**.
+**An occasionally updated [demo is available](http://biit.cs.ut.ee/~arak/projects/rmk/)**.
 
 In addition, this project provides a Perl module for conversion between
 the L-EST 97 and WSG84 (latitude / longitude) coordinate systems.
