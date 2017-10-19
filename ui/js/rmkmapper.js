@@ -16,6 +16,7 @@ var _g = {
 		"metsamaja" 		: ["#914700", "peatuskohad"],
 		"metsaonn"	 		: ["#4D2600", "peatuskohad"],
 		"looduskeskus" 		: ["#FFFF00", "peatuskohad"],
+        "külastuskeskus" 	: ["#FFFFAA", "peatuskohad"],
 		"teabepunkt" 		: ["#FFFF00", "peatuskohad", null, "i"],
 		"vaatetorn"	 		: ["#DC0000", "peatuskohad"],
 
