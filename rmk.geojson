@@ -15,7 +15,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1681",
-            "location" : "Mustjala vallas, Kalasma ja Abula külas, puhkeala kaardil objekt nr 40.",
+            "location" : "Mustjala vallas Kalasma ja Abula külas, puhkeala kaardil objekt nr 40.",
             "name" : "Abula matkarada (6,8 km)",
             "sights" : "Kevadel lubjalembeste taimede massiline õitseng rannalähedastel aladel, Abula pank, Leesikaloo männik. Tagalahel talvituv merelinnustik.",
             "type" : "matkarada"
@@ -25,19 +25,19 @@
       {
          "geometry" : {
             "coordinates" : [
-               22.117516,
-               58.46595
+               22.114412,
+               58.451378
             ],
             "type" : "Point"
          },
          "properties" : {
-            "coord_x" : 390154,
-            "coord_y" : 6482172,
+            "coord_x" : 389927,
+            "coord_y" : 6480555,
             "equipment" : "Kattega lõkkekoht, katusega pinklaud, kuivkäimla, varjualune, infostend.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1682",
-            "location" : "Mustjala vallas, Kalasma ja Abula külas. Puhkeala kaardil objekt nr 40.",
+            "location" : "Mustjala vallas Kalasma ja Abula külas. Puhkeala kaardil objekt nr 40.",
             "name" : "Abula telkimisala",
             "sights" : "Ilus kliburannik, kaunis vaade Tagalahele. Läheduses vanad klibukarjäärid, mille põhja katavad lausaliselt piibelehed. Läheduses asub Teesuu looduskaitseala ja kaunis Pidula oja.",
             "type" : "telkimisala"
@@ -55,33 +55,13 @@
          "properties" : {
             "coord_x" : 591831,
             "coord_y" : 6572957,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammid teabematerjalid ja info Aegviidu-Kõrvemaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda näituste ja teabekogudegateema- ja õppepäevad õpetajatele ja huvilistelemetsa- ja loodusteemalised üritusedvõimalik rentida saali või looduskeskust loodusteemaliste ürituste tarbeks       hind 13 eur tund/või 65 eur päevNäitused\"Avastusretk putukametsas\"\"Röövlinnud\"",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammid teabematerjalid ja info Aegviidu-Kõrvemaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda näituste ja teabekogudegateema- ja õppepäevad õpetajatele ja huvilistelemetsa- ja loodusteemalised üritusedvõimalik rentida saali või külastuskeskust loodusteemaliste ürituste tarbeks hind 15 eur tund/või 70 eur päevNäitused\"Avastusretk putukametsas\"\"Röövlinnud\"\"Loomanimega taimed\"",
             "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1570",
             "location" : "Jaama 7, Aegviidu, 74501 HarjumaaObjekt nr 1 puhkeala kaardil",
-            "name" : "Aegviidu looduskeskus",
-            "sights" : "Looduskeskus asub Kõrvemaa südames. Ürgsed sood, silmapiirini ulatuvad metsad ja inimtühjad loodusmaastikud – see on Kõrvemaa.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               25.611254,
-               59.28492
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 591831,
-            "coord_y" : 6572957,
-            "equipment" : "Teabematerjalid ja info Aegviidu-Kõrvemaa puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)",
-            "has_tenting" : -1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1569",
-            "location" : "Jaama 7, Aegviidu, HarjumaaObjekt nr 1 puhkeala kaardil",
-            "name" : "Aegviidu teabepunkt",
-            "type" : "teabepunkt"
+            "name" : "Aegviidu külastuskeskus",
+            "sights" : "Külastuskeskus asub Kõrvemaa südames. Ürgsed sood, silmapiirini ulatuvad metsad ja inimtühjad loodusmaastikud – see on Kõrvemaa.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -193,26 +173,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               23.179936,
-               59.005661
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 452877,
-            "coord_y" : 6541034,
-            "equipment" : "Rada asub suhteliselt niiskel ja liigniiskel alal. Osaliselt pinnasetee, liigniisketel aladel laudtee ja purded. Rajal on pink puhkamiseks, üle kraavi sild. Rajal on ka vaateplatvorm 2,5 m kõrge puitkonstruktsiooniga. Rada on varustatud suunaviitade ja infotahvliga.Märjal ajal on matkarada mudane ja raskesti läbitav. Sobivateks jalanõudeks on kummikud.",
-            "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/vormsi-maastikukaitseala/1246",
-            "location" : "Suuremõisa külas Vormsi vallas Läänemaal",
-            "name" : "Allika matkarada (1,2 km)",
-            "sights" : "Suur-allikas ja Ravi-allikas, vaade Prästviigi järvele",
-            "type" : "matkarada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                23.60763,
                59.212204
             ],
@@ -229,6 +189,26 @@
             "name" : "Allikajärve lõkkekoht",
             "sights" : "Allikajärve kutsutakse ka Tantsujärveks, Tantsujärve poolsaarel asuvad 1915. a tsaariarmee poolt rajatud raadiojaama varemed ja kivitee.",
             "type" : "lõkkekoht"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               22.097812,
+               58.297766
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "coord_x" : 388473,
+            "coord_y" : 6463480,
+            "equipment" : "Rada juhatavad puidust nooleviidad ja sinised värvimärgid puudel. Astangust viib alla trepp. Allikasoos ja nõrglubja allikate juures on vaateplatvormid ja ala tutvustavad infotahvlid, laudrajad aitavad üle liigniiskete soolappide.",
+            "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/viidumae-looduskaitseala/allikasoo-opperada-2-8-km",
+            "location" : "Viidu küla, Lääne-Saare vald",
+            "name" : "Allikasoo õpperada (2,8 km)",
+            "sights" : "Rada asub Viidumäe looduskaitsealal ja kulgeb alla kuni 18m kõrgusest Antsülusjärve astangust, mille jalami mademele on peale jääaega tekkinud lubjarikkad allikasood. Soodsate olude tõttu on kaitsealal kujunenud rikkalik looduslik mitmekesisus ja kohale omane floora. Siin kasvab palju kaitsealuseid soontaimi, sh ka ainult Saaremaal kasvav saaremaa robirohi (Rhinanthus osiliensis). Võimalus tutvuda Viidumäe looduskaitseala keskuses asuva püsiekspositsiooniga.",
+            "type" : "õpperada"
          },
          "type" : "Feature"
       },
@@ -284,7 +264,7 @@
          "properties" : {
             "coord_x" : 637999,
             "coord_y" : 6389735,
-            "equipment" : "Lõkkekohas on 1 lõkkease pinkidega, käimla, purre ja puukuur katusealuse lavatsiga. Ruumi 2 telgile.",
+            "equipment" : "Lõkkekohas on 1 lõkkease pinkidega, käimla, purre ja puukuur katusealuse lavatsiga.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1446",
             "location" : "Alumati järve kaldal, Taheva vallas, Valgamaal.",
@@ -330,25 +310,6 @@
             "name" : "Apteekrimäe matkarada (4 km)",
             "sights" : "Apteekrimäe metsarada kulgeb mööda Apteekrimäe ja Musimäe vaheldusrikast metsamaastikku.",
             "type" : "matkarada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               25.508056,
-               59.426111
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 585597,
-            "coord_y" : 6588545,
-            "equipment" : "1,1 ha suurusel maastikusõidualal on erinevaid looduslikke atraktiivseid takistusi järskude tõusude ja langustega.",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1698",
-            "location" : "Kuusalu vallas Aru küla karjääris.",
-            "name" : "Aru maastikusõiduala",
-            "type" : "maastikusõidurada"
          },
          "type" : "Feature"
       },
@@ -469,7 +430,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/vilsandi-rahvuspark/elda-telkimisala",
-            "location" : "Lääne-Saare vallas, Atla külas. Puhkeala kaardil  nr. 17",
+            "location" : "Lääne-Saare vallas Atla külas. Puhkeala kaardil  nr. 17",
             "name" : "Elda telkimisala",
             "sights" : "Soeginina ja Elda pangad kui väärtustatud geoloogiline ala kliburanna agarikuvallidega.",
             "type" : "telkimisala"
@@ -487,13 +448,13 @@
          "properties" : {
             "coord_x" : 656201,
             "coord_y" : 6496043,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammid teabematerjalid ja info Tartu-Jõgeva ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)metsa- ja loodusteemalised üritusedteema- ja õppepäevad õpetajatele ja huvilistelevõimalik rentida saali loodusteemaliste koosolekute, seminaride ja ürituste korraldamiseks; kuni 3 tundi 13 EUR/tundNäitused\"Loomanimega taimi Eesti loodusest\"\"Kaks meest, kaks hüljest\"",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammid teabematerjalid ja info Tartu-Jõgeva ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)metsa- ja loodusteemalised üritusedteema- ja õppepäevad õpetajatele ja huvilistelevõimalik rentida saali loodusteemaliste koosolekute, seminaride ja ürituste korraldamiseks; kuni 3 tundi 15 EUR/tundNäitused\"Kaks meest, kaks hüljest\"",
             "has_firesite" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/4450",
             "location" : "Elistvere küla, Tabivere vald, 49103 Jõgevamaa.",
-            "name" : "Elistvere looduskeskus",
+            "name" : "Elistvere külastuskeskus",
             "sights" : "Looduskeskus asub Tartu-Jõgeva puhkealal,  Elistvere loomapargi väravamajas. Lisaks looduskeskuse väljapanekutele on võimalik tutvuda loomapargiga.",
-            "type" : "looduskeskus"
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -541,25 +502,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               26.68501,
-               58.57625
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 656161,
-            "coord_y" : 6496042,
-            "equipment" : "Teabematerjalid ja info Tartu-Jõgeva puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/5016",
-            "location" : "Elistvere küla, Tabivere vald, Jõgevamaa.",
-            "name" : "Elistvere teabepunkt",
-            "type" : "teabepunkt"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                26.688025,
                58.5762472
             ],
@@ -595,26 +537,6 @@
             "name" : "Emajõe õpperada (2,5 km)",
             "sights" : "Emajõgi, lammimets, tarnamättaline madalsoo, sookaasik.",
             "type" : "õpperada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               27.105742,
-               58.382129
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 681615,
-            "coord_y" : 6475500,
-            "equipment" : "Ettetellimisel võimalik rentida õppeklassi loodushariduslikel eesmärkidel hinnaga 65 eurot/päev.Õppeklass sisaldab esitlustehnikat (arvuti, projektor, ekraan, kõlarid) ja lauad-toolid 26 inimesele.",
-            "has_tenting" : -1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/peipsiveere-looduskaitseala/1741",
-            "location" : "Kavastu küla, Luunja vald, 62204 Tartumaa",
-            "name" : "Emajõe-Suursoo looduskeskus",
-            "type" : "looduskeskus"
          },
          "type" : "Feature"
       },
@@ -735,7 +657,7 @@
             "equipment" : "Infostend, rada märgistatud",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/vilsandi-rahvuspark/1329",
-            "location" : "Kihelkonna vallas, Metsakülas. Puhkeala kaardil objekt nr 27.",
+            "location" : "Kihelkonna vallas Metsakülas. Puhkeala kaardil objekt nr 27.",
             "name" : "Harilaiu matkarada (6 km või 11 km)",
             "sights" : "Väärtustatud geoloogiline ala, floora ja fauna, Kiipsaare tuletorn. NB! Kiipsaare tuletorn on eravalduses! Tuletorn asub meres, ebakindlal pinnasel ja seetõttu on tema kaldenurk pidevalt muutuv. Tuletorni otsa ronimine on ohtlik!  Kiipsaare nukk ja Harilaiu läänerannik on hea linnu- ja hülgevaatluspaik. Vajalik hea optika.",
             "type" : "matkarada"
@@ -896,13 +818,13 @@
          "properties" : {
             "coord_x" : 392452,
             "coord_y" : 6535057,
-            "equipment" : "Ruumi 20 telgile. Parkla, infotulp, kuivkäimla, 3 grillimisrestidega varustatud lõkkekohta, 1 kaetud lõkkekoht ja varikatusealune väikese küttekoldega.",
+            "equipment" : "Parkla, infotulp, kuivkäimla, 3 grillimisrestidega varustatud lõkkekohta ja katusega pinklauda, varikatusealune väikese küttekoldega, 1 suurem varjualune 4 pinklauaga.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1577",
             "location" : "Telkimisala asub Kõpu poolsaare põhjapoolsel küljel, Hirmuste külast u 1 km kaugusel mere ääres. Objekt nr 26 puhkeala kaardil.",
             "name" : "Hirmuste telkimisala",
-            "sights" : "Vanad kuuse- ja männimetsad oma liigirikkuse ja mitmekesisusega, mille ilu saab nautida telkimisalalt algaval Hirmuste matkarajal",
+            "sights" : "Vanad kuuse- ja männimetsad oma liigirikkuse ja mitmekesisusega, mille ilu saab nautida telkimisalalt algaval Hirmuste õpperajal.",
             "type" : "telkimisala"
          },
          "type" : "Feature"
@@ -922,7 +844,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1571",
-            "location" : "Matkarada algab Hirmuste telkimisalalt, mis asub Kõpu poolsaare põhjapoolsel küljel, Hirmuste külast u 1 km kaugusel mere ääres. Objekt nr 26 puhkeala kaardil.",
+            "location" : "Õpperada algab Hirmuste telkimisalalt, mis asub Kõpu poolsaare põhjapoolsel küljel, Hirmuste külast u 1 km kaugusel mere ääres. Objekt nr 26 puhkeala kaardil.",
             "name" : "Hirmuste õpperada (1,3 km)",
             "sights" : "Rada tutvustab vana loodusmetsa elu, looma- ja taimeliike.",
             "type" : "õpperada"
@@ -942,7 +864,7 @@
             "coord_y" : 6540168,
             "equipment" : "üks lahtine lõkkease, mille ümber pingid; katusealusega laud-pingid, lõkkepuude varjualune, kuivkäimla, prügikast, infotahvel",
             "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/hirvelaane-lokkekoht",
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/hirvelaane-lokkekoht",
             "location" : "Rapla maakond Kaiu vald Taga-Põlliku küla",
             "name" : "Hirvelaane lõkkekoht",
             "type" : "lõkkekoht"
@@ -1043,7 +965,7 @@
             "coord_y" : 6600536,
             "equipment" : "puhkekohas on üks suur laud-pink-katusealune, prügikast, kuivkäimla, infotahvel",
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/naissaare-looduspark/hulkari-puhkekoht",
-            "location" : "Naissaare kagutipp, piirivalve radari läheduses",
+            "location" : "Naissaare kagutipus, piirivalve radari läheduses",
             "name" : "Hülkari puhkekoht",
             "sights" : "kaunid liivaluited, Tallinna laht ja Tallinna siluett",
             "type" : "puhkekoht"
@@ -1146,7 +1068,7 @@
             "coord_x" : 649427,
             "coord_y" : 6476673,
             "equipment" : "Rada algab Tenno lõkkekoha parklast suunaga lõunasse Ilmatsalu asulani. Sealt mööda Ilmatsalu jõe kallast, metsasihte ja -teid Tenno lõkkekohale tagasi, on tähistatud viitadega. Rajale jäävad 6 m kõrgune linnuvaatlustorn, mitmed lõkkekohad ja 25 m pikkune kaarsild.",
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1647",
             "location" : "Tähtvere vald, Tartumaa.",
             "name" : "Ilmatsalu rattarada (7,5 km)",
@@ -1167,7 +1089,7 @@
             "coord_x" : 649384,
             "coord_y" : 6475258,
             "equipment" : "Rada algab Ilmastalu paisjärve-äärsest parklast, on tähistatud viitadega ning kulgeb mööda Ilmatsalu jõe kallast, metsasihte ja teid kuni Kotka lõkkekohani, kus on transpordivahendi parkimise võimalus. Raja algusest ca 1 km kaugusel on 6 m kõrgune linnuvaatlustorn, 1,4 km Laululuige lõkkekoht, 1,7 km Sookure puhkekoht. Rabahane lõkkekohta (2,4 km) viib üle jõe 25 m pikkune kaarsild, 3,4 km Kotka lõkkekoht. Rajal „Rohelise klassi“ stendid/infotahvlid.",
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1645",
             "location" : "Tähtvere vald, Tartumaa.",
             "name" : "Ilmatsalu-Kärevere linnutee matkarada (3,5 km)",
@@ -1187,7 +1109,7 @@
          "properties" : {
             "coord_x" : 698380,
             "coord_y" : 6428837,
-            "equipment" : "Maja mahutab 8 inimest. Miinimumvajadustele sisustatud ja elektripliidiga kööginurk, kolm tuba kokku 6 voodiga, magamisvarustus peab külastajal endal kaasas olema. Majas saun, WC sees ja kuivkäimla väljas. Lõkkekoht ja laud-pingid pikniku pidamiseks metsamaja külastajatele. Puudub joogivesi.",
+            "equipment" : "Maja mahutab 8 inimest. Miinimumvajadustele sisustatud ja elektripliidiga kööginurk, kolm tuba kokku 6 voodiga, magamisvarustus peab külastajal endal kaasas olema. Palume kasutada vahetusjalanõusid, välisjalanõudega majas mitte käia! Majas saun, WC sees ja kuivkäimla väljas. Lõkkekoht ja laud-pingid pikniku pidamiseks metsamaja külastajatele. Puudub joogivesi.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/rapina-varska-puhkeala/1764",
             "location" : "Nohipalos Veriora vallas Põlvamaal.",
             "name" : "Ilumetsa metsamaja",
@@ -1233,26 +1155,6 @@
             "name" : "Ingatsi õpperada (4,3 km)",
             "sights" : "Kuresoo raba, Karuskose pärandkultuurimaastikud, lammimets",
             "type" : "õpperada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               22.53711,
-               58.93786
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 415779,
-            "coord_y" : 6534112,
-            "equipment" : "Infotahvel, pinklaud. Puuliike tutvustavad sildid.",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1603",
-            "location" : "Kõrgessare vald, Isabella küla, Lauka-Hüti tee ääres. Puhkeala kaardil objekt nr 17.",
-            "name" : "Isabella puhkekoht",
-            "sights" : "Puhkekoht on rajatud kunagise metsamõisa asukohale. Säilinud on paekivist võlvkelder, osa õunapuuaiast. Alal on tähistatud erinevad võõrpuuliigid.",
-            "type" : "puhkekoht"
          },
          "type" : "Feature"
       },
@@ -1450,7 +1352,7 @@
          "properties" : {
             "coord_x" : 664971,
             "coord_y" : 6504958,
-            "equipment" : "Infotahvel, 2 varikatusega laud-pinki ja kattega lõkkeaset, puukuur lakas magamise võimalusega, trepp ja kompostkäimla. Lubatud telkimine (kuni 10 telki).",
+            "equipment" : "Infotahvel, 2 varikatusega laud-pinki ja kattega lõkkeaset, puukuur lakas magamise võimalusega, trepp ja kompostkäimla. ",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1633",
@@ -1494,7 +1396,7 @@
          "properties" : {
             "coord_x" : 662428,
             "coord_y" : 6431959,
-            "equipment" : "kattega lõkkease koos pinkide ja puude varjualusega, laud-pink katusega, käimla, infostend.",
+            "equipment" : "kattega lõkkease koos pinkide ja puude varjualusega, laud-pink katusega, käimla, infostend",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/kiidjarve-kooraste-puhkeala/joksi-jarve-lokkekoht",
@@ -1577,7 +1479,7 @@
          "properties" : {
             "coord_x" : 575042,
             "coord_y" : 6499656,
-            "equipment" : "Lahtine lõkkekoht, laud-pingid-katusealune, puude varjualune, käimla, telkimisvõimalus kuni 3 telgile. ",
+            "equipment" : "Lahtine lõkkekoht, laud-pingid-katusealune, puude varjualune, käimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1761",
             "location" : "Järvamaal, Türi vallas, Tõrvaaugult 5 km kaugusel Saarjõe maastikukaitsealal.",
@@ -1629,6 +1531,28 @@
       {
          "geometry" : {
             "coordinates" : [
+               24.450443,
+               58.019223
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "coord_x" : 526621,
+            "coord_y" : 6430965,
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammid teabematerjalid ja info Pärnumaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda ekspositsiooni ja teabekogudega, vaadata loodusfilmemetsa- ja loodusteemalised üritusedkülastuskeskuse ruumide rent loodusteemaliste ürituste tarbeks; kuni 3 tundi 15 EUR/tundpiirkonda tutvustav püsiekspositsioon, linnuteemaline interaktiivne õppevahend, loodus- ja metsateemalised filmid, raamatud, CD ja DVD, mitmesugused teabekogud, loodushariduslikud programmid ja üritused",
+            "has_firesite" : 1,
+            "has_tenting" : -1,
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1504",
+            "location" : "Kabli, Häädemeeste vald, 86002 Pärnumaa.",
+            "name" : "Kabli külastuskeskus",
+            "sights" : "Kabli külastuskeskus asub Liivi lahe kaldal Kabli külas mereäärses männitukas. Külastuskeskuse juurest saab alguse Kabli looduse õpperada, millele jääb ka Priivitsa lõkkekoht. Kabli küla on kuulus oma kangete kaptenite- reederite poolest ja seda kinnitavad külaplatsile paigutatud mälestustahvlid ning jaala KAJA, mis on püstitatud siinrannas esimese kaugsõidupurjeka vettelaskmise 150. aastapäevaks.",
+            "type" : "külastuskeskus"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                24.450593,
                58.0188
             ],
@@ -1637,58 +1561,14 @@
          "properties" : {
             "coord_x" : 526630,
             "coord_y" : 6430918,
-            "equipment" : "Rada saab alguse Kabli looduskeskuse juures olevast väikesest parklast ja on ringikujuline. Rada on varustatud puidust suunaviitade ja infotahvlitega, Kabli linnujaama juures on infostend ja linnuvaatlustorn. Rajale jääb ka pesakastimaailm. Looduskeskuse õuealal on külastajate kasutada lõkkekoht koos grillimisrestidega.",
+            "equipment" : "Rada saab alguse Kabli külastuskeskuse juures olevast väikesest parklast ja on ringikujuline. Rada on varustatud puidust suunaviitade ja infotahvlitega, Kabli linnujaama juures on infostend ja linnuvaatlustorn. Rajale jääb ka pesakastimaailm. Külastuskeskuse õuealal on külastajate kasutada lõkkekoht koos grillimisrestidega.",
             "has_firesite" : 1,
-            "has_tenting" : -1,
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1508",
             "location" : "Kabli külas, Häädemeeste vallas, Pärnumaal.",
             "name" : "Kabli looduse õpperada (1,8 km)",
-            "sights" : "Rada asub Kabli looduskaitsealal, mitmekesised maastikud ja vääriselupaigad, Kabli linnujaam, kaunis rannikumeri.",
+            "sights" : "Mitmekesised maastikud ja vääriselupaigad, Kabli linnujaam, kaunis rannikumeri. 1,5 km kaugusel Kabli külaplatsile on püstitatud jaala, tähistamaks Eestimaa esimese kaugsõidupurjeks vettelaskmise 150. aastapäeva.",
             "type" : "õpperada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               24.450443,
-               58.019223
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 526621,
-            "coord_y" : 6430965,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammid teabematerjalid ja info Pärnumaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda ekspositsiooni ja teabekogudega, vaadata loodusfilmemetsa- ja loodusteemalised üritusedlooduskeskuse ruumide rent loodusteemaliste ürituste tarbeks; kuni 3 tundi 13 EUR/tundpiirkonda tutvustav püsiekspositsioon, linnuteemaline interaktiivne õppevahend, loodus- ja metsateemalised filmid, raamatud, CD ja DVD, mitmesugused teabekogud, loodushariduslikud programmid ja üritused",
-            "has_firesite" : 1,
-            "has_tenting" : -1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1504",
-            "location" : "Kabli, Häädemeeste vald, 86002 Pärnumaa.",
-            "name" : "Kabli looduskeskus",
-            "sights" : "Kabli looduskeskus asub Liivi lahe kaldal Kabli külas mereäärses männitukas. Looduskeskuse juurest saab alguse Kabli looduse õpperada, millele jääb ka Priivitsa lõkkekoht. Kabli küla on kuulus oma kangete kaptenite- reederite poolest ja seda kinnitavad külaplatsile paigutatud mälestustahvlid ning jaala KAJA, mis on püstitatud siinrannas esimese kaugsõidupurjeka vettelaskmise 150. aastapäevaks.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               24.450443,
-               58.019223
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 526621,
-            "coord_y" : 6430965,
-            "equipment" : "Teabematerjalid ja info Pärnumaa puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).Piirkonda tutvustav püsiekspositsioon, linnuteemaline interaktiivne õppevahend, loodus- ja metsateemalised filmid, raamatud, CD ja DVD, mitmesugused teabekogud, interneti kasutamise võimalus.",
-            "has_firesite" : 1,
-            "has_tenting" : -1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1732",
-            "location" : "Kabli küla, Häädemeeste vald, Pärnumaa.",
-            "name" : "Kabli teabepunkt",
-            "sights" : "Looduskeskuse juurest saab alguse Kabli looduse õpperada, millele jääb ka Priivitsa lõkkekoht. Kabli küla on kuulus oma kangete kaptenite- reederite poolest, külaplatsile paigutatud mälestustahvlid ning jaala KAJA, mis on püstitatud siinrannas esimese kaugsõidupurjeka vettelaskmise 150. aastapäevaks.",
-            "type" : "teabepunkt"
          },
          "type" : "Feature"
       },
@@ -1747,11 +1627,11 @@
          "properties" : {
             "coord_x" : 586314,
             "coord_y" : 6562105,
-            "equipment" : "Loodusrajast 3,3 km laudteed, parklates ja raja lõpus infotahvlid raja skeemi ja muu infoga, rajal 16 huvipunkti-infoalust. Rajale jäävad Kalajärve ja Noku lõkkekohad.",
+            "equipment" : "Loodusrajast 4 km laudteed, parklates ja raja lõpus infotahvlid raja skeemi ja muu infoga, rajal 16 huvipunkti-infoalust. Rajale jäävad Kalajärve ja Noku lõkkekohad.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1225",
             "location" : "Raja algus Anija vallas Harjumaal, Jäneda-Vetla-Alavere maantee ääres Kalajärve kaldal, lõpp Albu vallas Järvamaal Napu-Mõnuvere metsatee ääres. Objekt nr 19 puhkeala kaardil.",
-            "name" : "Kakerdaja loodusrada (8 km)",
+            "name" : "Kakerdaja loodusrada (7 km)",
             "sights" : "järved, metsad, raba, vanad talukohad",
             "type" : "õpperada"
          },
@@ -1791,7 +1671,7 @@
             "equipment" : "1 kaetud lõkkekoht, kuivkäimla, pink-laud",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/osmussaare-maastikukaitseala/kaksikute-lokkekoht",
-            "location" : "Osmussaarel, Noarootsi vallas, Läänemaal.",
+            "location" : "Osmussaarel Noarootsi vallas Läänemaal.",
             "name" : "Kaksikute lõkkekoht",
             "sights" : "jäänukjärved, bretšad, militarne pärandkultuur",
             "type" : "lõkkekoht"
@@ -1830,7 +1710,7 @@
          "properties" : {
             "coord_x" : 665111,
             "coord_y" : 6504369,
-            "equipment" : "Infotahvel, laud-pingid varikatusega, kattega lõkkease, puukuur lakas magamise võimalusega ja kompostkäimla. Lubatud telkimine (kuni 7 telki).",
+            "equipment" : "Infotahvel, laud-pingid varikatusega, kattega lõkkease, puukuur lakas magamise võimalusega ja kompostkäimla. ",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1666",
@@ -1856,7 +1736,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1693",
-            "location" : "Kalasma külas, Mustjala vallas, Saaremaal, puhkeala kaardil objekt nr 38.",
+            "location" : "Kalasma külas Mustjala vallas Saaremaal, puhkeala kaardil objekt nr 38.",
             "name" : "Kalasma telkimisala",
             "type" : "telkimisala"
          },
@@ -1873,13 +1753,13 @@
          "properties" : {
             "coord_x" : 392442,
             "coord_y" : 6531327,
-            "equipment" : "Ruumi 20 telgile. Parkla, infotulp, kuivkäimla, 1 grillimisrestidega varustatud lõkkekoht, 2 kaetud lõkkekohta ja varikatusealune küttekoldega.",
+            "equipment" : "Parkla, infotulp, kuivkäimla, 3 grillimisrestidega varustatud kaetud lõkkekohta ja varikatusealune küttekoldega, 2 katusega pinklauda.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1579",
             "location" : "Telkimisala asub Kõpu poolsaare lõunapoolsel küljel, Kaleste küla lähedal, sõiduteest 2,5 km kaugusel mere ääres. Objekt nr 29 puhkeala kaardil.",
             "name" : "Kaleste telkimisala",
-            "sights" : "Külastajat ootavad kaunis liivarand, vana lautrikoht ja rannikukooslusi tutvustav matkarada.",
+            "sights" : "Külastajat ootavad kaunis liivarand, vana lautrikoht ja rannikukooslusi tutvustav õpperada.",
             "type" : "telkimisala"
          },
          "type" : "Feature"
@@ -1899,7 +1779,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1574",
-            "location" : "Matkarada algab Kaleste telkimisalalt, mis asub Kõpu poolsaare lõunapoolsel küljel Kaleste küla lähedal, sõiduteest 2,5 km kaugusel mere ääres. Objekt nr 29 puhkeala kaardil.",
+            "location" : "Õpperada algab Kaleste telkimisalalt, mis asub Kõpu poolsaare lõunapoolsel küljel Kaleste küla lähedal, sõiduteest 2,5 km kaugusel mere ääres. Objekt nr 29 puhkeala kaardil.",
             "name" : "Kaleste õpperada (1,8 km)",
             "sights" : "Tähelepanu köidavad erinevad huvitavad rannikukooslused ja vanad männid.",
             "type" : "õpperada"
@@ -1919,7 +1799,7 @@
             "coord_y" : 6478343,
             "equipment" : "Tähistatud siniste värvimärkidega, varustatud huvipunktide kirjeldustega",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1678",
-            "location" : "Mustjala vallas, Selgase külas. Regio atlas lk 60 D4, puhkeala kaardil objekt nr 34.",
+            "location" : "Mustjala vallas Selgase külas. Regio atlas lk 60 D4, puhkeala kaardil objekt nr 34.",
             "name" : "Kalja õpperada (1 km)",
             "sights" : "Kurisud ja  maa-alla kaduv jõgi, eriti paeluv kevadise lume sulamise ja sügisese liigvee ajal.",
             "type" : "õpperada"
@@ -1983,7 +1863,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1723",
-            "location" : "Viru raba lähedal, Nõmmeveski-Liiapeksi matkarajal. Objekt nr 12 puhkeala kaardil.",
+            "location" : "Viru raba lähedal, Nõmmeveski-Liiapeksi matkarajal. ",
             "name" : "Kalmeoja lõkkekoht",
             "type" : "lõkkekoht"
          },
@@ -2000,7 +1880,7 @@
          "properties" : {
             "coord_x" : 397383,
             "coord_y" : 6534325,
-            "equipment" : "Metsaonn on sobilik kalameestele ja matkajatele peatumiskohaks nii suvel kui talvel. Onnis on kamin, seina ääres istepingid, akna all väike laud. Onni kõrval on ette valmistatud telkimisala 25 telgile. 5 grillimisrestidega varustatud lõkkekohta, kuivkäimla, infotahvel.",
+            "equipment" : "Metsaonn on sobilik kalameestele ja matkajatele peatumiskohaks nii suvel kui talvel. Onnis on kamin, seina ääres istepingid, akna all väike laud. Onni kõrval on ette valmistatud telkimisala. 5 grillimisrestidega varustatud lõkkekohta, kuivkäimla, infotahvel.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1583",
@@ -2090,7 +1970,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/karjaari-telkimisala",
-            "location" : "Mustjala valla, Abula külas, puhkeala kaardil objekt nr.39",
+            "location" : "Mustjala vallas Abula külas, puhkeala kaardil objekt nr.39",
             "name" : "Karjääri telkimisala",
             "sights" : "Mere ääres jalutades avaneb väga ilus vaade Tagalahele.",
             "type" : "telkimisala"
@@ -2108,7 +1988,7 @@
          "properties" : {
             "coord_x" : 636988,
             "coord_y" : 6405485,
-            "equipment" : "Olemas 2 lõkkekohta, millest ühes saab ka telkida. Ruumi 3 telgile. Olemas puukuur ja käimla.",
+            "equipment" : "Olemas 2 lõkkekohta, millest ühes saab ka telkida. Olemas puukuur ja käimla.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1449",
@@ -2184,27 +2064,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               26.332961,
-               57.598766
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 639480,
-            "coord_y" : 6386471,
-            "equipment" : "Rada läbib mitut lõkkekohta ja Oore telkimisala Aheru järve kaldal, kus on võimalik ööbida.",
-            "has_firesite" : 1,
-            "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1438",
-            "location" : "Raja algus Tellingumäe jalamil, Taheva vallas, Valgamaal.",
-            "name" : "Karula rattarada (50 km)",
-            "type" : "rattarada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                26.504927,
                57.712486
             ],
@@ -2217,8 +2076,30 @@
             "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/karula-rahvuspark/1733",
             "location" : "Ähijärve küla, Antsla vald, Võru maakond",
-            "name" : "Karula teabepunkt",
-            "type" : "teabepunkt"
+            "name" : "Karula rahvuspargi külastuskeskus",
+            "sights" : "Ähijärv, erinevad maastikud",
+            "type" : "külastuskeskus"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               26.332961,
+               57.598766
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "coord_x" : 639480,
+            "coord_y" : 6386471,
+            "equipment" : "Rada läbib mitut lõkkekohta ja Oore telkimisala Aheru järve kaldal, kus on võimalik ööbida.",
+            "has_firesite" : 1,
+            "has_tenting" : -1,
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1438",
+            "location" : "Raja algus Tellingumäe jalamil, Taheva vallas, Valgamaal.",
+            "name" : "Karula rattarada (50 km)",
+            "type" : "rattarada"
          },
          "type" : "Feature"
       },
@@ -2234,7 +2115,7 @@
             "coord_x" : 559774,
             "coord_y" : 6479773,
             "equipment" : "Saun ja ööbimine põrandal 9 inimesele, magamisvarustus peab külastajal endal kaasas olema. Majas puudub elekter, mobiililevi on katkendlik. Olemas lõkkekoht grillrestiga, randumiskoht, kuivkäimla, kaev. Kaevuvesi ei ole kasutuskõlblik ja külastajatel tuleb joogivesi endal kaasa võtta.",
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/5846",
             "location" : "Suure-Jaani vald, Viljandimaa. Regio atlas (2004-2009) lk 72 D4 (lõkkekoha leppemärgil). NB! Vaata kohalesõitmise õpetust!",
             "name" : "Karuskose metsavahi metsamaja",
@@ -2256,7 +2137,7 @@
             "coord_y" : 6509851,
             "equipment" : "1 infotahvel puhkekohta viiva raja alguses, 1 pink puhkekohas",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/karusselja-parna-puhke",
-            "location" : "Kloostri külas Lihula vallas Läänemaal",
+            "location" : "Kloostri külas Lihula vallas Läänemaal.",
             "name" : "Karusselja puhkekoht",
             "sights" : "looduskaitsealune põlispuu",
             "type" : "puhkekoht"
@@ -2340,12 +2221,12 @@
          "properties" : {
             "coord_x" : 685392,
             "coord_y" : 6543776,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammid (täpsemalt allpool), ka venekeelsed teabematerjalid ja info Peipsi põhjaranniku ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda keskuse teabekoguga, vaadata näitusi ja filmeolemas ekspositsioonisaal, mis tutvustab Ida-Virumaa erinevaid loodusressurssemetsa- ja loodusteemalised üritusedlooduskeskuse ruumide rent loodusteemaliste ürituste tarbeks; looduskeskus üks ööpäev kuni 23 inimest 105 EUR, koos saunaga 132 EURNäitusedSeemnest puiduksSamblad, samblikud ja puuseenedEesti kaladNäituste info lehe päises \"Lisainfo\" all",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammid (täpsemalt allpool), ka venekeelsed teabematerjalid ja info Peipsi põhjaranniku ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda keskuse teabekoguga, vaadata näitusi ja filmeolemas ekspositsioonisaal, mis tutvustab Ida-Virumaa erinevaid loodusressurssemetsa- ja loodusteemalised üritusedkülastuskeskuse ruumide rent loodusteemaliste ürituste tarbeks; külastuskeskus üks ööpäev kuni 23 inimest 105 EUR, koos saunaga 132 EURNäitusedSeemnest puiduksSamblad, samblikud ja puuseenedEesti kaladNäituste info lehe päises \"Lisainfo\" all",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/peipsi-pohjaranniku-puhkeala/1400",
             "location" : "Kauksi küla, Iisaku vald, 41008 Ida-Virumaa Puhkeala kaardil objekt nr 14",
-            "name" : "Kauksi looduskeskus",
-            "sights" : "Looduskeskus asub Peipsi põhjaranniku puhkealal. Peipsi järv, rannamännik, Kauksi oja, liivaluited. Loodusteemalised raamatud ja infovoldikud.",
-            "type" : "looduskeskus"
+            "name" : "Kauksi külastuskeskus",
+            "sights" : "Külastuskeskus asub Peipsi põhjaranniku puhkealal. Peipsi järv, rannamännik, Kauksi oja, liivaluited. Loodusteemalised raamatud ja infovoldikud.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -2393,25 +2274,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               27.226335,
-               58.992831
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 685392,
-            "coord_y" : 6543776,
-            "equipment" : "Teabematerjalid ja info Peipsi põhjaranniku puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/peipsi-pohjaranniku-puhkeala/1401",
-            "location" : "Kauksi küla, Iisaku vald, Ida-Virumaa",
-            "name" : "Kauksi teabepunkt",
-            "type" : "teabepunkt"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                27.2022,
                58.986147
             ],
@@ -2442,7 +2304,7 @@
          "properties" : {
             "coord_x" : 653958,
             "coord_y" : 6398902,
-            "equipment" : "Metsaonnis on lisaks kuusnurksele ringis pinkidega metsaonnile veel lõkkerestiga lõkkekoht, pingid, puukuur,kuivkäimla. Magamisvarustus peab külastajal endal kaasas olema.",
+            "equipment" : "Lisaks kuusnurksele ringis pinkidega metsaonnile on siin veel lõkkerestiga lõkkekoht, pingid, puukuur, kuivkäimla. Magamisvarustus peab külastajal endal kaasas olema.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1435",
             "location" : "Tsooru küla lähedal, Antsla vallas, Võrumaal.",
@@ -2590,7 +2452,7 @@
             "coord_y" : 6584014,
             "equipment" : "Ringikujuline loodusrada kulgeb mööda Keila jõe kallast ja läbi pargi. Raja alguses on infotahvel kaardi ja üldinfoga ning rajal 8 kirjeldustega huvipunkti, mis tutvustavad huvitavamaid loodusobjekte ja Keila-Joa pargi ajalugu. Rajal jalapuhkamiseks istepinke.Raja alguses on tasuline parkla, parkimiskorralduse kiosk ja käimla.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/1360",
-            "location" : "Keila-Joal, Keila vallas, Harjumaal. Raja algus Keila-Joa pargi parkimisalal. Puhkeala kaardil objekt nr 3.",
+            "location" : "Keila-Joal Keila vallas Harjumaal. Raja algus Keila-Joa pargi parkimisalal. Puhkeala kaardil objekt nr 3.",
             "name" : "Keila-Joa pargi loodusrada (3 km)",
             "sights" : "Keila juga, Keila mõis, vana mõisapark, endine hüdroelektrijaam, park-mets",
             "type" : "õpperada"
@@ -2628,7 +2490,7 @@
          "properties" : {
             "coord_x" : 570552,
             "coord_y" : 6506647,
-            "equipment" : "kaks lõkkeaset - üks lahtine, teine kaetud, pingid mõlema lõkkekoha ümber, üks katusealusega laud-pink komplekt, puude varjualune, kuivkäimla, 2 prügikasti, infotahvel",
+            "equipment" : "kaks lõkkeaset - üks lahtine, teine kaetud, pingid mõlema lõkkekoha ümber, üks katusealusega laud-pink, puude varjualune, kuivkäimla, 2 prügikasti, infotahvel",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/kellissaare-lokkekoht",
             "location" : "Pärnu maakond Vändra vald Mädara külast kirde pool.",
@@ -2692,7 +2554,7 @@
             "equipment" : "rajal infotahvlid",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/kiidjarve-kooraste-puhkeala/1484",
             "location" : "Põlvamaal, Kiidjärve-Koorvere tee läheduses.",
-            "name" : "Kiidjärve kuklasterada (1,0 km)",
+            "name" : "Kiidjärve kuklasterada (1 km)",
             "sights" : "laanekuklaste imeline maailm, rekordkõrge kuusk (42 m).",
             "type" : "matkarada"
          },
@@ -2709,33 +2571,13 @@
          "properties" : {
             "coord_x" : 677790,
             "coord_y" : 6448281,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammidteabematerjalid ja info Kiidjärve-Kooraste ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda keskuse väljapaneku ja teabekogugavõimalik korraldada teema- ja õppepäevi Kiidjärve looduskeskuses ja loodusõpperadadelmetsa- ja loodusteemalised üritusedNäitusedUrmas Tartes´e fotonäitus \"Tilluke mitmekesisus\"Taavi Nagel´i fotonäitus \"Pildikesi Lõuna-Eesti loodusest\"Sven Zacek´i fotod jäälinnust ehk „Taevaskoja pärlist“",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammidteabematerjalid ja info Kiidjärve-Kooraste ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda keskuse väljapaneku ja teabekogugavõimalik korraldada teema- ja õppepäevi Kiidjärve külastuskeskuses ja loodusõpperadadelmetsa- ja loodusteemalised üritusedNäitusedUrmas Tartes´e fotonäitus \"Tilluke mitmekesisus\"Taavi Nagel´i fotonäitus \"Pildikesi Lõuna-Eesti loodusest\"Sven Zacek´i fotod jäälinnust ehk „Taevaskoja pärlist“",
             "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/kiidjarve-kooraste-puhkeala/1742",
             "location" : "Kiidjärve küla, Vastse-Kuuste vald, 63604 Põlvamaa.",
-            "name" : "Kiidjärve looduskeskus",
-            "sights" : "Põlvamaa ülikaunis maastik koos kuulsate taevaskodade, Kiidjärve Kuklaste  kuningriigi, Valgesoo raba ja teiste looduse ning pärandkultuuri aaretega. Kiidjärvel on säilinud ka mõisa-ajalugu: looduskaitse all olev Kiidjärve mõisa park, mõisa ait-kuivati, kunagine Kassi kõrts. Looduskeskuse juurest on vaadeldav Kiidjärve vesiveski (ehitatud 1914.a., eravaldus).",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               27.019477,
-               58.139568
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 677790,
-            "coord_y" : 6448281,
-            "equipment" : "Teabematerjalid ja info Kiidjärve-Kooraste ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)",
-            "has_tenting" : -1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/kiidjarve-kooraste-puhkeala/kiidjarve-teabepunkt",
-            "location" : "Kiidjärve küla, Vastse-Kuuste vald, 63604 Põlvamaa.",
-            "name" : "Kiidjärve teabepunkt",
-            "type" : "teabepunkt"
+            "name" : "Kiidjärve külastuskeskus",
+            "sights" : "Põlvamaa ülikaunis maastik koos kuulsate taevaskodade, Kiidjärve Kuklaste  kuningriigi, Valgesoo raba ja teiste looduse ning pärandkultuuri aaretega. Kiidjärvel on säilinud ka mõisa-ajalugu: looduskaitse all olev Kiidjärve mõisa park, mõisa ait-kuivati, kunagine Kassi kõrts. Külastuskeskuse juurest on vaadeldav Kiidjärve vesiveski (ehitatud 1914.a., eravaldus).",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -2940,7 +2782,7 @@
             "coord_x" : 630283,
             "coord_y" : 6491545,
             "equipment" : "Altmetsa ja Pedja jõe lõkkekohad, parkla, 15 infotahvlit, 10 silda, 1 rippsild.",
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/alam-pedja-looduskaitseala/1207",
             "location" : "Puurmani vallas, Jõgevamaal.",
             "name" : "Kirna õpperada (6,8 km)",
@@ -3061,7 +2903,7 @@
          "properties" : {
             "coord_x" : 644172,
             "coord_y" : 6406902,
-            "equipment" : "Lõkkekohas on 1 lõkkease pinkidega, käimla, puukuur katusealuse lavatsiga ja purre. Ruumi 3 telgile.",
+            "equipment" : "Lõkkekohas on 1 lõkkease pinkidega, käimla, puukuur katusealuse lavatsiga ja purre.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1448",
@@ -3125,7 +2967,7 @@
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/11153",
             "name" : "Koiva pärandkultuuri jalgrattarada (18 km)",
-            "sights" : "Rajale jääb Taheva mõis ja tuuleveski.",
+            "sights" : "Rajale jäävad ka Taheva mõis ja tuuleveski, ohvrimänd, Koiva puisniit, vaigutatud mets.",
             "type" : "rattarada"
          },
          "type" : "Feature"
@@ -3186,7 +3028,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1683",
-            "location" : "Mustjala vallas, Silla külas, Konati karjääri ääres. Regio atlas lk 61 D4, puhkeala kaardil objekt nr 36.",
+            "location" : "Mustjala vallas Silla külas Konati karjääri ääres. Regio atlas lk 61 D4, puhkeala kaardil objekt nr 36.",
             "name" : "Konati telkimisala",
             "sights" : "Kaevandamise järel tekkinud ilus loodusesse sulanduv allikatoiteline järv",
             "type" : "telkimisala"
@@ -3208,7 +3050,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1680",
-            "location" : "Mustjala vallas, Silla külas, Regio atlas lk 61 D4, puhkeala kaardil objekt nr 35.",
+            "location" : "Mustjala vallas Silla külas, Regio atlas lk 61 D4, puhkeala kaardil objekt nr 35.",
             "name" : "Konati õpperada (1 ja 3 km)",
             "sights" : "Saaremaale tüüpiline põlispuudega mets.",
             "type" : "õpperada"
@@ -3370,7 +3212,7 @@
          "properties" : {
             "coord_x" : 664439,
             "coord_y" : 6429518,
-            "equipment" : "Rada on varustatud viitadeega. Raja läbimiseks vajalik rajaskeem, mille saab Kiidjärve looduskeskusest.",
+            "equipment" : "Rada on varustatud viitadeega. Raja läbimiseks vajalik rajaskeem, mille saab Kiidjärve külastuskeskusest.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/kiidjarve-kooraste-puhkeala/1495",
             "location" : "Algus ja lõpp RMK Erastvere kontori juures.",
@@ -3390,7 +3232,7 @@
          "properties" : {
             "coord_x" : 611204,
             "coord_y" : 6419346,
-            "equipment" : "Esimeses lõkkekohas on 1 pinkidega lahtine lõkkease, 2 sädemepüüdjaga lõkkeaset, 2 laud-pinkidega katusealust, käimla, riietuskabiin ja puukuur. Ruumi 5 telgile. Teine lõkkekoht asub 300 meetri kaugusel järve kaldal, kus on pinkidega lahtine lõkkease, puude varjualune, telkimisvõimalus kahele telgile.",
+            "equipment" : "Esimeses lõkkekohas on 1 pinkidega lahtine lõkkease, 2 sädemepüüdjaga lõkkeaset, 2 laud-pinkidega katusealust, käimla, riietuskabiin ja puukuur. Teine lõkkekoht asub 300 meetri kaugusel järve kaldal, kus on pinkidega lahtine lõkkease, puude varjualune.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/10663",
@@ -3476,7 +3318,7 @@
          "properties" : {
             "coord_x" : 560301,
             "coord_y" : 6477175,
-            "equipment" : "Infostendid, puhkekohad, kuivkäimlad. Kopraraja invarada on renoveeritud 2013.a ERF-i toel: rada läbitav ratastooliga (ka lapsevankriga)- kokku 660m.",
+            "equipment" : "Infostendid, puhkekohad, kuivkäimlad. Kopraraja invarada on renoveeritud 2013.a ERF-i toel: rada läbitav ratastooliga (ka lapsevankriga)- kokku 660 meetrit.",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/1268",
             "location" : "Tipu külas, Kõpu vallas, Viljandimaal. Regio atlas (2004-2009) lk 72 D4.",
             "name" : "Koprarada õpperada (1,8 km)",
@@ -3521,8 +3363,8 @@
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/peipsi-pohjaranniku-puhkeala/1402",
             "location" : "Iisaku vald Iisaku alev, puhkeala kaardil objekt nr 7.",
-            "name" : "Kotka matkarada (8 km)",
-            "sights" : "Erinevad metsa kasvukohatüübid, mandrijää sulamisel tekkinud liivaseljandikud, lagesoo taimestik, soosaared, laugas, „rahaauk“",
+            "name" : "Kotka matkarada (6,7km)",
+            "sights" : "Erinevad metsa kasvukohatüübid, mandrijää sulamisel tekkinud liivaseljandikud, lagesoo taimestik, soosaared, laugas, „rahaauk“.",
             "type" : "matkarada"
          },
          "type" : "Feature"
@@ -3538,11 +3380,12 @@
          "properties" : {
             "coord_x" : 585070,
             "coord_y" : 6570045,
-            "equipment" : "metallist restiga lõkkekoht, laavu tüüpi katusealune, puude varjualune, kuivkäimla, prügikast",
+            "equipment" : "Metallist restiga lõkkekoht, laavu tüüpi katusealune, puude varjualune, kuivkäimla, prügikast",
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1547",
             "location" : "Albu vallas, Vetla ja Aegviidu vahelistes metsades. Objekt nr 18 puhkeala kaardil.",
             "name" : "Krani lõkkekoht",
-            "sights" : "erinevad metsatüübid, Liivoja nimeline metsaoja",
+            "sights" : "Erinevad metsatüübid, Liivoja nimeline metsaoja",
             "type" : "lõkkekoht"
          },
          "type" : "Feature"
@@ -3582,7 +3425,7 @@
             "coord_y" : 6411904,
             "equipment" : "arteesia kaev, pingid",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/kubja-puhkekoht",
-            "location" : "Meegomäe küla, Võru vald, Võrumaa",
+            "location" : "Meegomäe küla, Võru vald,  Võrumaa",
             "name" : "Kubja puhkekoht",
             "sights" : "Kubija järv, arteesia kaev",
             "type" : "puhkekoht"
@@ -3622,7 +3465,7 @@
          "properties" : {
             "coord_x" : 670030,
             "coord_y" : 6495492,
-            "equipment" : "Kuusnurkses onnis restiga lõkkease ja pingid. Onni juures on infotahvel, laud-pingid varikatusega, restiga lõkkease, puukuur lakas magamise võimalusega ja kompostkäimla. Lubatud telkimine (kuni 10 telki).",
+            "equipment" : "Kuusnurkses onnis restiga lõkkease ja pingid. Onni juures on infotahvel, laud-pingid varikatusega, restiga lõkkease, puukuur lakas magamise võimalusega ja kompostkäimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1641",
             "location" : "Vara vald, Tartumaa. Matjama külast 6,5 km põhja poole.",
@@ -3665,7 +3508,7 @@
          "properties" : {
             "coord_x" : 594438,
             "coord_y" : 6581889,
-            "equipment" : "Infostend, 1 kaetud lõkkekoht, laud, 3 pinki, kuivkäimla, puudealune, lattidest piirdeaed, prügikast",
+            "equipment" : "infostend, 1 kaetud lõkkekoht, laud, 3 pinki, kuivkäimla, puudealune, lattidest piirdeaed, prügikast",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1558",
@@ -3714,7 +3557,7 @@
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1548",
             "location" : "Ambla vallas Järvamaal, Aravete-Rava tee ääres. Objekt nr 22 puhkeala kaardil.",
             "name" : "Kurisoo lõkkekoht",
-            "sights" : "valmiv kuusemets",
+            "sights" : "Valmiv kuusemets",
             "type" : "lõkkekoht"
          },
          "type" : "Feature"
@@ -3794,7 +3637,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/vilsandi-rahvuspark/9260",
-            "location" : "Lääne-Saare vallas, Kuusnõmme küla. Puhkeala kaardil objekt nr. 19",
+            "location" : "Lääne-Saare vallas Kuusnõmme külas. Puhkeala kaardil objekt nr. 19",
             "name" : "Käkisilma telkimisala",
             "sights" : "Kuusnõmme  poolsaarel asunud Tartu Ülikooli bioloogiajaama katsemetsa kvartal nn. „Ameerika mets“, kus on võimalik vaadelda mitmeid aklimatiseerimise läbi teinud võõrpuuliike. Teeäärsed haruldased taimeliigid s.h. orhideed. Mitmed huvitavad põlispuud.Männimetsast kujundatud poollooduslik karjamaa mägiveistega. Rannikulähedased merelaiud. Telkimisalalt algab üle laidude kulgev Käkisilma-Vilsandi matkarada.",
             "type" : "telkimisala"
@@ -3856,7 +3699,7 @@
          "properties" : {
             "coord_x" : 672041,
             "coord_y" : 6498532,
-            "equipment" : "Infotahvel, laud-pingid varikatusega, lõkkease lõkkerestiga, pingid, puukuur lakas magamise võimalusega ja kompostkäimla. Lubatud telkimine (kuni 10 telki).",
+            "equipment" : "Infotahvel, laud-pingid varikatusega, lõkkease lõkkerestiga, pingid, puukuur lakas magamise võimalusega ja kompostkäimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1640",
             "location" : "Vara vald, Tartumaa. Kärgandi külast 1 km lääne poole.",
@@ -3877,6 +3720,7 @@
          "properties" : {
             "coord_x" : 608247,
             "coord_y" : 6608796,
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/16076",
             "name" : "Käsmu jalgrattarada (11,6 km)",
             "sights" : "Käsmu poolsaare mets, Matsikivi, Eru laht, Käsmu järv, küla, kalmistu, kabel.",
@@ -3896,6 +3740,7 @@
             "coord_x" : 608238,
             "coord_y" : 6608780,
             "equipment" : "rajal suur infotahvel",
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/11686",
             "location" : "Lääne-Virumaa, Käsmu. Rada algab kabeli juures parklas.Objekt nr 11 rahvuspargi kaardil.",
             "name" : "Käsmu loodus- ja kultuurilooline rada (4,2 km)",
@@ -3916,6 +3761,7 @@
             "coord_x" : 608244,
             "coord_y" : 6608797,
             "equipment" : "rajal on suured infotahvlid",
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/11692",
             "location" : "Lääne-Virumaa, Käsmu. Rajad algavad kabeli juurest parklast.",
             "name" : "Käsmu matkarada (15 km)",
@@ -3975,7 +3821,7 @@
          "properties" : {
             "coord_x" : 634849,
             "coord_y" : 6388817,
-            "equipment" : "Lõkkekohas on üks lõkkease pinkidega, käimla ja puukuur. Ruumi 4 telgile.",
+            "equipment" : "Lõkkekohas on üks lõkkease pinkidega, käimla ja puukuur.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1445",
@@ -4000,7 +3846,7 @@
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1320",
             "location" : "Asub keset Kõrgessaare asulat parkla kõrval. Puhkeala kaardil objekt nr 15.",
             "name" : "Kõrgessaare orhideede õpperada (100 m)",
-            "sights" : "Kõrgessaare orhideede õpperada on tükike lubjarikast rohumaad keset Kõrgessaare asulat. Õppepeenral kasvab looduslikult 10 käpaliste liiki.",
+            "sights" : "Kõrgessaare orhideede õpperada on tükike lubjarikast rohumaad keset Kõrgessaare asulat. Siin kasvab looduslikult 10 käpaliste liiki.",
             "type" : "õpperada"
          },
          "type" : "Feature"
@@ -4016,12 +3862,11 @@
          "properties" : {
             "coord_x" : 560248,
             "coord_y" : 6477133,
-            "equipment" : "Lõkkekoht grillrestiga, laudade ja pinkidega varustatud katusealune (36 istekohta), puude varjualune, kuivkäimla, niidetud plats telkimiseks (kuni 10 telki). Veevõtukoht ja kätepesukoht.",
+            "equipment" : "Lõkkekoht grillrestiga, laudade ja pinkidega varustatud katusealune (36 istekohta), puude varjualune, kuivkäimla, niidetud plats telkimiseks. Veevõtukoht ja kätepesukoht.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/kortsi-toramaa-lokkekoht",
             "location" : "Kõrtsi-Tõramaa, Tipu küla, Kõpu vald, 71201 Viljandimaa. Regio atlas (2004-2009) lk 72 D4.",
             "name" : "Kõrtsi-Tõramaa lõkkekoht",
-            "sights" : "Lõkkekohast algab Kopraraja õpperada.",
             "type" : "lõkkekoht"
          },
          "type" : "Feature"
@@ -4060,7 +3905,7 @@
             "coord_y" : 6423306,
             "equipment" : "Maja mahutab 9 inimest. Esimesel korrusel on kaminaruum, WC ja saun. Magamisvõimalus põrandal, madratsid olemas, muu magamisvarustus peab külastajal endal kaasas olema. Miinimumvajadustele sisustatud kööginurk, puuküttega pliit ja ahi. Õues katusealune koos laua, pinkide, välikamina ja suitsuahjuga. Puudub joogivesi. ",
             "has_firesite" : 1,
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/rapina-varska-puhkeala/1378",
             "location" : "Kõverajärve ääres, Orava vallas, Põlvamaal.",
             "name" : "Kõverajärve metsamaja",
@@ -4080,7 +3925,7 @@
          "properties" : {
             "coord_x" : 613626,
             "coord_y" : 6587203,
-            "equipment" : "Ohepalu maastikukaitseala tutvustav infotahvel",
+            "equipment" : "Ohepalu maastikukaitseala tutvustav infotahvel.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/pohja-eesti-puhkeala/3989",
             "location" : "Kõverjärvel, Kadrina vallas, Lääne-Virumaal.",
             "name" : "Kõverjärve parkla",
@@ -4215,26 +4060,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               23.570137,
-               58.583398
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 474997,
-            "coord_y" : 6493792,
-            "equipment" : "infostend",
-            "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/koik-kaitsealad/laelatu-puhkekoht",
-            "location" : "Hanila küla, Hanila vald, Läänemaa.",
-            "name" : "Laelatu puhkekoht",
-            "sights" : "Laelatu puisniit oma liigirikkuses, erinevad orhideed",
-            "type" : "puhkekoht"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                26.519331,
                58.407146
             ],
@@ -4243,7 +4068,7 @@
          "properties" : {
             "coord_x" : 647237,
             "coord_y" : 6476847,
-            "equipment" : "Infotahvel, laud-pingid varikatusega, lõkkease lõkkerestiga, puukuur ja käimla. Lubatud telkimine (kuni 5 telki).",
+            "equipment" : "Infotahvel, laud-pingid varikatusega, lõkkease lõkkerestiga, puukuur ja käimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1654",
             "location" : "Tähtvere vald, Tartumaa. 2,7 km mööda Ilmatsalu-Kärevere linnutee matkarada, 300 m kaarsillast.",
@@ -4264,11 +4089,11 @@
          "properties" : {
             "coord_x" : 610664,
             "coord_y" : 6598847,
-            "equipment" : "Lahemaa rahvuspargi keskuses on võimalik vaadata rahvusparki tutvustavat 17 minutilist slaidiprogrammi ja tutvuda püsiekspositsiooni ja näitustega. Teabematerjalid ja info Lahemaa rahvuspargi, Põhja-Eesti puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
+            "equipment" : "Lahemaa rahvuspargi külastuskeskuses on võimalik vaadata rahvusparki tutvustavat 17 minutilist slaidiprogrammi ja tutvuda püsiekspositsiooni ja näitustega. Teabematerjalid ja info Lahemaa rahvuspargi, Põhja-Eesti puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1734",
             "location" : "Palmse, Vihula vald, Lääne-Viru maakond",
-            "name" : "Lahemaa teabepunkt",
-            "type" : "teabepunkt"
+            "name" : "Lahemaa rahvuspargi külastuskeskus",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -4308,7 +4133,7 @@
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1513",
             "location" : "Pärnu maakond, Saarde vald, Laiksaare küla. Rada saab alguse RMK Pärnumaa metskonna kontorihoone juurest.",
             "name" : "Laiksaare loodusrada (2 km)",
-            "sights" : "Raja eesmärgiks on tutvustada Eestis vähe esinevaid lammimetsi ning neile omaseid taimekooslusi. Rada läbides tuleb ületada kolm purret ja mahalangenud puid ning ronida mööda jõekallast. Linnuhuvilist matkajat  üllatab suleliste liigirikkus.",
+            "sights" : "Rada läbides tuleb ületada kolm purret ja mahalangenud puid ning ronida mööda jõekallast. Linnuhuvilist matkajat  üllatab suleliste liigirikkus. Lähedal asub looduskaitsealune Laiksaare männik.",
             "type" : "õpperada"
          },
          "type" : "Feature"
@@ -4324,7 +4149,7 @@
          "properties" : {
             "coord_x" : 539725,
             "coord_y" : 6439514,
-            "equipment" : "Metsaonnis on kattega lõkkease, 3 lavatsit nii istumiseks kui ka magamiseks. Õues on pink ja DC",
+            "equipment" : "Metsaonnis on kattega lõkkease, 3 lavatsit nii istumiseks kui ka magamiseks. Õues on pink ja DC.",
             "has_firesite" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1514",
             "location" : "Laiksaare külas, Saarde vallas, Pärnumaal.",
@@ -4346,9 +4171,8 @@
             "coord_x" : 713313,
             "coord_y" : 6588897,
             "equipment" : "Parkla, 2 piirdega ümbritsetud vaateplatvormi, pingid, lõkkekoht, infostend, puude varjualune, purre",
-            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/peipsi-pohjaranniku-puhkeala/1336",
-            "location" : "Sillamäe linn, Ida-Virumaal. ",
+            "location" : "Sillamäe linn, Ida-Virumaa",
             "name" : "Langevoja lõkkekoht",
             "sights" : "Langevoja joastik ehk Langevoja kaskaad (ka Sorro kosk). Sõtke jõe vasak lisajõgi lõikab siin paeplatood ja voolab 10 meetri laiuses ja 20 meetri sügavuses kanjonis. Juga koosneb kahest astangust kõrgustega 1,5 ja 4 meetrit.",
             "type" : "lõkkekoht"
@@ -4366,7 +4190,7 @@
          "properties" : {
             "coord_x" : 606187,
             "coord_y" : 6421281,
-            "equipment" : "Lahtine lõkkekoht pinkidega, laud-pingid- katusealune, riietuskabiin, käimla, telkimisvõimalus 3 telgile.",
+            "equipment" : "Lahtine lõkkekoht pinkidega, laud-pingid- katusealune, riietuskabiin, käimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/10662",
             "location" : "Väikese Lasa metsajärve kaldal, Helme vallas, Valgamaal.",
@@ -4429,14 +4253,14 @@
          "properties" : {
             "coord_x" : 417148,
             "coord_y" : 6491425,
-            "equipment" : "kaetud lõkkekoht, välikäimla, 2 katusega pink-lauda",
+            "equipment" : "Majas on puuküttega pliit, laud ja pingid. Magamisvõimalus: 3 kahekohalist narivoodit, kohapeal olemas tekid, padjad ja madratsid. Majas elekter, õues kaev ja käimla, pesemisvõimalus saunas.Väljas kaetud lõkkease ja 2 katusega pinklauda.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1674",
             "location" : "Leisi vald Peederga küla. Puhkeala kaardil objekt  nr. 44",
-            "name" : "Laugu metsavahimaja",
-            "sights" : "Laugu metsavahimaja ehitamist alustati 1856. a sõjaväestatud metsavahile. Vana, 32 m pikkune rehielamu on seega üle 150 aasta teeninud eesti metsandust, olenemata riigikorrast. Täna on maja kasutuses RMK Saaremaa puhkeala pärandkultuuri ja loodushariduse keskusena, kus saab tutvuda eesti metsanduse ajalooga ja meenutada vanu metsanduslikke töövõtteid.",
-            "type" : "muu"
+            "name" : "Laugu metsavahi metsamaja",
+            "sights" : "Laugu metsavahikordon, metsavahi talu õu, saab tutvuda metsanduse ajalooga ja vanade metsanduslike töövõtetega. RMK Tuhkana telkimisala asub 7 km kaugusel kaunis liivarannas.",
+            "type" : "metsamaja"
          },
          "type" : "Feature"
       },
@@ -4518,7 +4342,7 @@
             "equipment" : "5 lõkkekohta, laud-pinkide komplektid, puudealused, infotahvel üldinfoga, kuivkäimla, parkimistasku",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/1351",
-            "location" : "Lahepere lahe ääres, Paldiski linna territooriumil, Pakri poolsaarel. Puhkeala kaardil objekt nr 11.",
+            "location" : "Lahepere lahe ääres Paldiski linna territooriumil Pakri poolsaarel. Puhkeala kaardil objekt nr 11.",
             "name" : "Leetse telkimisala",
             "sights" : "Meri ja liivarand, Leetse pank, Leetse mõis. NB! Mõis on eraomanduses ja mõisa territooriumil viibimine on lubatud ainult omaniku loal.",
             "type" : "telkimisala"
@@ -4536,7 +4360,7 @@
          "properties" : {
             "coord_x" : 698065,
             "coord_y" : 6444762,
-            "equipment" : "Lõkkekohas on laud-pingid varikatusega, puude varjualune, lõkkekoht koos lõkkerestiga, kuivkäimla.",
+            "equipment" : "Lõkkekohas on laud-pink varikatusega, puude varjualune, lõkkekoht koos lõkkerestiga, kuivkäimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/rapina-varska-puhkeala/1366",
             "location" : "Leevakul, Võhandu jõe kaldal, Räpina vallas, Põlvamaal.",
@@ -4664,7 +4488,7 @@
             "coord_y" : 6566141,
             "equipment" : "kaugus merest 50 m",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/1475",
-            "location" : "Lepajõe suudmes, vasakul kaldal. Puhkeala kaardil objekt nr 18.",
+            "location" : "Lepajõe suudmes, jõe vasakul kaldal. Puhkeala kaardil objekt nr 18.",
             "name" : "Lepajõe parkimistasku",
             "type" : "muu"
          },
@@ -4684,7 +4508,7 @@
             "equipment" : "matkarajast 2,5 km laudteed, rada kattub osaliselt Paukjärve ja Jussi loodusradadega. Rajale jäävad Järvi Pikkjärve, Paukjärve ja Jussi telkimisalad.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1552",
-            "location" : "Algab Kuusalu vallas Liiapeksil, Peterburi maantee ääres ja lõppeb Aegviidu alevi külje all. Objekt nr 3 puhkeala kaardil.",
+            "location" : "Algab Kuusalu vallas Järvi Pikkjärvel ja lõppeb Aegviidu alevi külje all. Objekt nr 3 puhkeala kaardil.",
             "name" : "Liiapeksi-Aegviidu matkarada (32 km)",
             "sights" : "Põhja-Kõrvemaa kogu oma ilus ja võlus",
             "type" : "matkarada"
@@ -4869,7 +4693,7 @@
          "properties" : {
             "coord_x" : 642162,
             "coord_y" : 6391492,
-            "equipment" : "Lõkkekohas on 1 lõkkease pinkidega, käimla, purre ja puukuur. Ruumi 2 telgile.",
+            "equipment" : "Lõkkekohas on 1 lõkkease pinkidega, käimla, purre ja puukuur.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1447",
@@ -4973,7 +4797,8 @@
             "coord_x" : 593401,
             "coord_y" : 6460063,
             "equipment" : "Rada on varustatud puust suunavate viitadega. Rada algab parklast, on ringikujuline ja 2 km pikk.",
-            "has_tenting" : 1,
+            "has_firesite" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1228",
             "location" : "Raja algus koos parklaga asub Viljandi maakonnas Imavere-Karksi-Nuia mnt 60 km, Loodi mõisa juurest 500 meetrit ida poole.",
             "name" : "Loodi põrguoru matkarada (2 km)",
@@ -5075,7 +4900,7 @@
          "properties" : {
             "coord_x" : 407129,
             "coord_y" : 6533671,
-            "equipment" : "Ruumi 25 telgile. Parkla, infoalus, kuivkäimla, 1 grillimisrestidega varustatud lõkkekoht, 1 kaetud lõkkekoht ja varikatusealune.",
+            "equipment" : "Parkla, infoalus, kuivkäimla, 2 kaetud tulekollet, katusealuses 2 pinklauda.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1582",
@@ -5098,7 +4923,7 @@
             "coord_x" : 714650,
             "coord_y" : 6428919,
             "equipment" : "Maja mahutab 9 inimest. Magamisvõimalus I korrusel naril ja teisel poolkorrusel lavatsil, varustus peab külastajal endal kaasas olema! Miinimumvajadusele sisustatud kööginurk (külmik, veekeedukann, väike elektripliit), puuküttega pliit ja kamin. Majas on saun. Õues kuivkäimla ja lõkkekoht. Puudub puhas joogivesi. ",
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/rapina-varska-puhkeala/1377",
             "location" : "Õrsava järve lähedal (järveni umbes 100 m), Lobotka külas, Värska vallas, Põlvamaal. ",
             "name" : "Luige metsamaja",
@@ -5121,7 +4946,7 @@
             "equipment" : "Lahtine lõkkekoht, infotahvel, laud-pingid, katusealune, puude varjualune, käimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1762",
-            "location" : "Viljandi maakonnas Suure-Jaani-Vändra teel Vanaõue puhkekeskusest 1,2 km kaugusel mööda Sakala tee matkarada Navesti maastikukaitsealal.",
+            "location" : "Viljandi maakonnas Suure-Jaani-Vändra teel Vanaõue puhkekeskusest 1,2 km kaugusel, mööda Sakala tee matkarada.",
             "name" : "Luite lõkkekoht",
             "sights" : "Sakala tee",
             "type" : "lõkkekoht"
@@ -5182,7 +5007,7 @@
          "properties" : {
             "coord_x" : 588129,
             "coord_y" : 6490921,
-            "equipment" : "Parklas asub kaetud lõkkekoht, avar varjualune, infotahvel, käimla. Linnamäe ümbruses on võimalus telkimiseks kuni 50 inimesele, üks kaetud lõkkekoht, kaks laud-pingid-katusealust. Linnamäele viib kaks treppi, 60 meetrine laudtee juhatab matkaja üle oja tähistamata metsarajale. ",
+            "equipment" : "Parklas asub kaetud lõkkekoht, avar varjualune, infotahvel, käimla. Linnamäe ümbruses on üks kaetud lõkkekoht, kaks laud-pingid-katusealust. Linnamäele viib kaks treppi, 60 meetrine laudtee juhatab matkaja üle oja tähistamata metsarajale. ",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1535",
@@ -5271,7 +5096,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/osmussaare-maastikukaitseala/lounasadama-lokkekoht",
-            "location" : "Osmussaarel, Noarootsi vallas, Läänemaal.",
+            "location" : "Osmussaarel Noarootsi vallas Läänemaal.",
             "name" : "Lõunasadama lõkkekoht",
             "sights" : "jäänukjärved, bretšad, militarne pärandkultuur",
             "type" : "lõkkekoht"
@@ -5450,31 +5275,12 @@
          "properties" : {
             "coord_x" : 489332,
             "coord_y" : 6508336,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ning lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammidteabematerjalid ja info Läänemaa ja teiste RMK piirkondade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)Matsalu rahvusparki tutvustav põhjalik püsiekspositsioon ja multimeediaprogramm „Matsalu aasta. Elu Matsalus jääst jääni“ eesti, inglise ja saksa keeles.võimalus vaadata filme ja kasutada teabekogusidloodusõhtud ning metsa- ja loodusteemalised üritusedLihula Muusika- ja Kunstikooli õpilastööde näitus.  Loe täpsemalt siit.",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ning lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammidteabematerjalid ja info Läänemaa ja teiste RMK piirkondade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)Matsalu rahvusparki tutvustav põhjalik püsiekspositsioon ja multimeediaprogramm „Matsalu aasta. Elu Matsalus jääst jääni“ eesti, inglise ja saksa keeles.võimalus vaadata filme ja kasutada teabekogusid, loodushariduslikuks tegevuseks saab kasutada õppeklassiloodusõhtud ning metsa- ja loodusteemalised üritusedKunstnik Mari Kaarma illustratsioonid Rein Marani filmidele \"Matsalu linnuriik\" ja \"Ühe armastuse lugu\". Loe täpsemalt siit.III korruse kohvikusaalis Läänemaa fotograafi Ennu Põldma fotonäitus \"Linnaloodus\" (Haapsalu) 2. Loe lähemalt siit.Rasvatihase aasta joonistusvõistluse parimad tööd on välja pandud Penijõe mõisa trepihallis. Rohkem infot siit.",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/1253",
-            "location" : "Penijõe küla, Lihula vald, 90305 Läänemaa",
-            "name" : "Matsalu looduskeskus",
-            "sights" : "Looduskeskus asub Matsalu rahvuspargis, üleval on ekspositsioon ning kasutada saab õppeklassi loodushariduslikuks tegevuseks. Info Matsalu rahvuspargi ja Lääne maakonna kaitsealade ja piirkonna turismiettevõtjate kohta.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               23.815901,
-               58.714566
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 489332,
-            "coord_y" : 6508336,
-            "equipment" : "Teabematerjalid ja info Matsalu rahvuspargi ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/1735",
-            "location" : "Penijõe, Lihula vald, Lääne maakond",
-            "name" : "Matsalu teabepunkt",
-            "type" : "teabepunkt"
+            "location" : "Penijõe küla, Lihula vald, 90305 Läänemaa.",
+            "name" : "Matsalu rahvuspargi külastuskeskus",
+            "sights" : "Külastuskeskus asub rahvusvahelise tähtsusega märgalade e. Ramsari alade nimekirja kantud Matsalu rahvuspargis. Tänu paljudele erinevatele elupaigatüüpidele, mis pakuvad lindudele häid pesitsusvõimalusi, on Matsalut hakatud kutsuma ka lindude paradiisiks.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -5532,7 +5338,7 @@
          "properties" : {
             "coord_x" : 484681,
             "coord_y" : 6470015,
-            "equipment" : "Parkimistaskud, katusega laud- pingid, sädemepüüdjaga grillid, käimlad, infostend",
+            "equipment" : "Parkimistaskud, katusega laud- pingid, sädemepüüdjaga grillid, käimlad, infostend. Telkimisala lõkkekohti ei varustata lõkkepuudega.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1528",
@@ -5556,7 +5362,7 @@
             "coord_y" : 6446779,
             "equipment" : "Maja mahutab 6 inimest. Olemas puuküttega pliit, kamin, magamislavatsid, laud ja pingid.  Vajalik kaasa võtta: magamisvarustus, toidunõud, joogivesi, klaasümbrises küünlad jms. Väljas on puukuur, varjualusega laud-pingid, lõkkekoht ja kuivkäimla. Puudub joogivesi ja elekter. ",
             "has_firesite" : 1,
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/rapina-varska-puhkeala/1372",
             "location" : "Meelva järve lähistel, Räpina vallas, Põlvamaal.",
             "name" : "Meelva metsamaja",
@@ -5703,7 +5509,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/1349",
-            "location" : "Lohusalu lahe ääres, Keila vallas. Puhkeala kaardil objekt nr 1.",
+            "location" : "Lohusalu lahe ääres Keila vallas. Puhkeala kaardil objekt nr 1.",
             "name" : "Meremõisa telkimisala",
             "sights" : "liivane mererand, erivanuseline rannamännik",
             "type" : "telkimisala"
@@ -5724,6 +5530,7 @@
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/metsa-kolakojad",
             "location" : "Pähni külas, Varstu vallas, Võrumaal.",
             "name" : "Metsa kõlakojad",
+            "sights" : "Pähni külastuskeskuse ekspositsioonid ja näitused.",
             "type" : "muu"
          },
          "type" : "Feature"
@@ -5741,6 +5548,7 @@
             "coord_y" : 6563449,
             "equipment" : "Kohapunktid ja suunaviidad",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/metsanduslik-opperada-1-5-km",
+            "location" : "Peraküla, Nõva vald, Läänemaa.",
             "name" : "Metsanduslik õpperada (1,5 km)",
             "type" : "õpperada"
          },
@@ -5780,6 +5588,7 @@
             "equipment" : "Kaetud lõkkease, katusealune laua ja pinkidega, kuivkäimla",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/metsanurme-lokkekoht-i",
+            "location" : "Metsanurme külas Saku vallas",
             "name" : "Metsanurme lõkkekoht I",
             "type" : "lõkkekoht"
          },
@@ -5799,6 +5608,7 @@
             "equipment" : "Lahtine lõkkease, laud ja pingid, kuivkäimla",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/metsanurme-lokkekoht-ii",
+            "location" : "Metsanurme külas Saku vallas",
             "name" : "Metsanurme lõkkekoht II",
             "type" : "lõkkekoht"
          },
@@ -5862,7 +5672,7 @@
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1763",
             "location" : "Järvamaal, Türi vallas, Tõrvaaugult 3 km kaugusel Saarjõe maastikukaitsealal.",
             "name" : "Metsavenna lõkkekoht",
-            "sights" : "Metsavendade mälestusmärk, võimalus minna matkama Saarjõe õpperajale.",
+            "sights" : "Metsavendade mälestusmärk",
             "type" : "lõkkekoht"
          },
          "type" : "Feature"
@@ -5901,7 +5711,7 @@
             "coord_y" : 6565598,
             "equipment" : "kaugus merest 50 m",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/1473",
-            "location" : "Keibu lahe ääres Uue jõe vasakul kaldal Nõva vallas Läänemaal. Puhkeala kaardil objekt nr 11.",
+            "location" : "Keibu lahe ääres Uuejõe vasakul kaldal Nõva vallas Läänemaal. Puhkeala kaardil objekt nr 11.",
             "name" : "Metskonna parkla",
             "type" : "muu"
          },
@@ -5923,7 +5733,7 @@
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/12154",
             "location" : "Orajõe bussipeatuses, Kabli külas, Häädemeeste vallas, Pärnumaal.",
             "name" : "Metskonna puhkekoht",
-            "sights" : "Liikudes 50 m mere suunas asuvad parkla, Kabli looduskeskus ja teabepunkt. Parklast põhjapoole jääb Priivitsa lõkkekoht ning sealtsamast parklast saab alguse ka 1,8  km pikkune Kabli looduse õpperada.",
+            "sights" : "Liikudes 50 m mere suunas asuvad parkla ja Kabli külastuskeskus. Parklast põhjapoole jääb Priivitsa lõkkekoht ning sealtsamast parklast saab alguse ka 1,8  km pikkune Kabli looduse õpperada.",
             "type" : "puhkekoht"
          },
          "type" : "Feature"
@@ -5941,31 +5751,10 @@
             "coord_y" : 6482669,
             "equipment" : "infostend",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1675",
-            "location" : "Pöide vallas, Neemi külas, puhkeala kaardil objekt nr 1.",
+            "location" : "Pöide vallas Neemi külas, puhkeala kaardil objekt nr 1.",
             "name" : "Mihkel Ranna dendraarium",
             "sights" : "Saaremaa liigirikkaim dendraarium",
             "type" : "muu"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               26.493998,
-               57.746529
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 648492,
-            "coord_y" : 6403264,
-            "equipment" : "Lõkkekohas on infotahvel, lahtine lõkkease, kuivkäimla, 2 istepinki, 1 puude varjualune, 2-osaline prügikast.",
-            "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/karula-rahvuspark/1297",
-            "location" : "Mikilä järve idakaldal, Mähkli külas, Antsla vallas.",
-            "name" : "Mikilä lõkkekoht",
-            "sights" : "Mikilä järv, pärandkultuurimaastikud.",
-            "type" : "lõkkekoht"
          },
          "type" : "Feature"
       },
@@ -5980,7 +5769,7 @@
          "properties" : {
             "coord_x" : 558795,
             "coord_y" : 6479577,
-            "equipment" : "Lõkkekoht grillrestiga, puude varjualune, kuivkäimla, niidetud plats telkimiseks (kuni 5 telki).",
+            "equipment" : "Lõkkekoht grillrestiga, puude varjualune, kuivkäimla, niidetud plats telkimiseks.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/muinaskula-lokkekoht",
             "location" : "Riisa külas, Tori vallas, Pärnumaal.",
@@ -6096,45 +5885,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               22.236956,
-               58.462063
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 397110,
-            "coord_y" : 6481550,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammidteabematerjalid ja info Saaremaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda keskuse näitustega;võimalik kasutada keskuse teabekogusid: raamatud, DVD-d ja CD-d, mängud, õppematerjalid õpetajatele (puunäidised, sammalde-samblike kogu, herbaarium, Saaremaa kivimid)metsa- ja loodusteemalised üritusedvõimalik rentida saali või looduskeskust loodusteemaliste ürituste tarbeks; looduskeskus üks ööpäev kuni 24 inimest 96 EURNäitusedKaitsealuseid taimi – looduse ilu ja mitmekesisusVäljapanek tutvustab läbi tekstide ja fotode neid kaitsealuseid taimi, kellega inimesed sagedamini looduses kokku võivad puutuda. Gruppidel tulekust ette teatada.",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1694",
-            "location" : "Mustjala alevik, 93601 SaaremaaPuhkeala kaardil objekt nr 37",
-            "name" : "Mustjala looduskeskus",
-            "sights" : "Looduskeskus asub Saaremaa puhkealal Mustjala külas. Läänemere rannik, jäänukjärved, omanäolised metsad haruldaste taimeliikide rohkusega.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               22.236956,
-               58.462063
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 397110,
-            "coord_y" : 6481550,
-            "equipment" : "Teabematerjalid ja info Saaremaa puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).Erinevad näitused ja väljapanekud.",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1695",
-            "location" : "Mustjala alevik, Saaremaa Puhkeala kaardil objekt nr 37",
-            "name" : "Mustjala teabepunkt",
-            "type" : "teabepunkt"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                27.344455,
                57.934413
             ],
@@ -6183,7 +5933,7 @@
          "properties" : {
             "coord_x" : 622881,
             "coord_y" : 6606998,
-            "equipment" : "2 lõkkekohta, neist 1 kaetud lõkkekoht, 1 varikatusega laud, kaev puudub, tarbevett saab võtta jõest",
+            "equipment" : "3 lõkkekohta, neist 1 kaetud lõkkekoht, 1 varikatusega laud, kaev puudub, tarbevett saab võtta jõest",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1721",
@@ -6289,7 +6039,7 @@
          "properties" : {
             "coord_x" : 397564,
             "coord_y" : 6534198,
-            "equipment" : "Ruumi 10 telgile. Parkla, infotulp, kuivkäimla, 2 grillimisrestidega varustatud lõkkekohta, 1 kaetud lõkkekoht. Telkimisala on kõrvuti Kalurikoja metsaonniga.",
+            "equipment" : "Parkla, infotulp, kuivkäimla, 5 grillimisrestidega varustatud lõkkekohta ja katusega pinklauda. Telkimisala on kõrvuti Kalurikoja metsaonniga.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1578",
@@ -6314,9 +6064,9 @@
             "equipment" : "tasulised loodusõppeprogrammid ja -matkadvõimalik rentida maja seminaride, nõupidamiste ja loodusteemaliste ürituste korraldamiseks info Saaremaa ja teiste RMK puhkealade ning ümberkaudsete loodusväärtuste kohtaMaja kasutamineKlientide saabumise arvestuslik aeg on kell 16.00, lahkumise arvestuslik aeg on kell 12.00.Suures majas on 6 toas (3 kahekohalist ja 3 kolmekohalist) kokku 15 kohta, majutus teisel korrusel. Olemas voodivarustus, dušid, wc-d, kaminaruum (võimalik kasutada ka seminariruumina – olemas tahvel, ekraan, dataprojektor, TV, WiFi, teabekogu). Täisvarustusega köök: elektripliit, nõudepesumasin, külmkapp, mikrolaineahi, toidunõud. Suure maja vabade aegade vaatamine ja broneerimine on-line keskkonnas www.nordicrent.ee Väikses majas 4 kohta, majutus teisel korrusel. Alumisel korrusel kööginurk, kaminaruum, saun, wc.Väikese maja vabade aegade vaatamine ja broneerimine on-line keskkonnas www.nordicrent.ee",
             "has_firesite" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1696",
-            "location" : "Lääne-Saare vald Mändjala küla, puhkeala kaardil objekt nr 7",
+            "location" : "Lääne-Saare vald, Mändjala küla, puhkeala kaardil objekt nr 7",
             "name" : "Mändjala loodusmaja",
-            "sights" : "Siin on suurepärased tingimused rannapuhkuseks kaunil liivarannal. Rannas on korvpalliplats. Kaugele ei jää Viidumäe looduskaitseala, Lõo-Kaugatoma maastikukaitseala ja Ohesaare pank, põnevat loodust leidub ka loodusmaja vahetus ümbruses. Ca 24 km kaugusele jääb Viieristi matkarada (1 km). Ajaloohuvilistel on võimalus tutvuda Tiirimetsa kiriku, Tehumardi mälestussamba, Dejevo sõjaväeosa ja punkriga.",
+            "sights" : "Siin on suurepärased tingimused rannapuhkuseks kaunil liivarannal. Rannas on korvpalliplats. Kaugele ei jää Viidumäe looduskaitseala, Lõo-Kaugatoma maastikukaitseala ja Ohesaare pank, põnevat loodust leidub ka loodusmaja vahetus ümbruses. Ca 24 km kaugusele jääb Viieristi matkarada (1 km). Ajaloohuvilistel on võimalus tutvuda Tiirimetsa kiriku ja Tehumardi mälestussambaga.",
             "type" : "looduskeskus"
          },
          "type" : "Feature"
@@ -6450,7 +6200,7 @@
          "properties" : {
             "coord_x" : 667619,
             "coord_y" : 6504782,
-            "equipment" : "Infotahvel, laud-pingid varikatusega, lõkkease lõkkerestiga, puude varjualune, lattidest püstkoda ja käimla. Lubatud telkimine (kuni 7 telki).",
+            "equipment" : "Infotahvel, laud-pingid varikatusega, lõkkease lõkkerestiga, puude varjualune, lattidest püstkoda ja käimla. ",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1636",
@@ -6496,7 +6246,7 @@
             "equipment" : "Rada on tähistatud valge-roheline-valge märgistusega puudel ja viitage keeramiskohtades. Rajal on 9 infotahvlit.",
             "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/naissaare-looduspark/naissaare-keskrada-11-km",
-            "location" : "Harjumaa Naissaar saare keskosa",
+            "location" : "Harjumaa, Naissaar, saare keskosa",
             "name" : "Naissaare keskrada (11 km)",
             "sights" : "Taani kuninga aed, Põhjaküla, Kunila mägi, miinilaod",
             "type" : "matkarada"
@@ -6517,7 +6267,7 @@
             "equipment" : "Rada on tähistatud valge-sini-valge värvimärgistusega puudel ja viitadega keeramiskohtades. Rajal on 11 infotahvlit.",
             "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/naissaare-looduspark/naissaare-lounarada",
-            "location" : "Harjumaa Naissaar, saare lõunaosa.",
+            "location" : "Harjumaa, Naissaar, saare lõunaosa.",
             "name" : "Naissaare lõunarada (12 km)",
             "sights" : "Rada on tähistatud valge-sini-valge värvimärgistusega puudel ja viitadega keeramiskohtades. Rajal on 11 infotahvlit.",
             "type" : "matkarada"
@@ -6537,7 +6287,7 @@
             "coord_y" : 6605887,
             "equipment" : "Rada on tähistatud valge-punane-valge värvimärgistusega puudel ja keeramiskohtades viitadega. Rajal on 10 infotahvlit.",
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/naissaare-looduspark/naissaare-pohjarada-6-km",
-            "location" : "Harjumaa Naissaar saare põhjaosa",
+            "location" : "Harjumaa, Naissaar, saare põhjaosa",
             "name" : "Naissaare põhjarada (7 km)",
             "sights" : "Endine ohvitseride kasiino, Eesti patarei nr 5, patarei nr 10A, patarei nr 10B, Naissaare põhjatipp ja majakas.",
             "type" : "matkarada"
@@ -6597,13 +6347,13 @@
          "properties" : {
             "coord_x" : 504107,
             "coord_y" : 6488794,
-            "equipment" : "Parklas on infotahvel ja käimla, rajale jäävad lõkkekoht ja küünid.",
+            "equipment" : "Parkla, käimla, 3 katusega laud-pinki, puukuur",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/12690",
             "location" : "Koonga vallas, Pärnumaal.",
             "name" : "Nedrema puisniidu lõkkekoht",
-            "sights" : "Nedrema puisniit on üks Eesti ja kogu Euroopa suurimatest puisniitudest. Tänu oma suurele pindalale ja väga hästi säilinud puurinde struktuurile on Nedrema Eesti esinduslikumaid puisniite. Kahe raba vahel paiknemise tõttu on Nedrema üsna niiske, ka tema reljeef on mitmekesisem kui enamusel teistel Eesti puisniitudel. Seal kasvab 17 liiki kaitsealuseid taimi, neist 15 on orhideeliigid. Nedremalt on leitud ka 4 liiki Eestis harvaesinevaid seeni.  Ala on kaitse alla võetud 1991. aastal puisniidu kaitseks.",
+            "sights" : "Nedrema puisniit on üks Eesti ja kogu Euroopa suurimatest puisniitudest. Tänu oma suurele pindalale ja väga hästi säilinud puurinde struktuurile on Nedrema Eesti esinduslikumaid puisniite. Kahe raba vahel paiknemise tõttu on Nedrema üsna niiske, ka tema reljeef on mitmekesisem kui enamusel teistel Eesti puisniitudel. Seal kasvab 17 liiki kaitsealuseid taimi, neist 15 on orhideeliigid. Nedremalt on leitud ka 4 liiki Eestis harvaesinevaid seeni. Ala on kaitse alla võetud 1991. aastal puisniidu kaitseks.",
             "type" : "lõkkekoht"
          },
          "type" : "Feature"
@@ -6724,7 +6474,7 @@
          "properties" : {
             "coord_x" : 410262,
             "coord_y" : 6540175,
-            "equipment" : "Ruumi 35 telgile. Parkla, infoalus, puukuur, kuivkäimla, 5 grillimisrestidega varustatud lõkkekohta, varikatusealune küttekoldega.",
+            "equipment" : "Parkla, infoalus, puukuur, kuivkäimla, 4 grillimisrestidega varustatud lõkkekohta, varikatusealune küttekoldega, 3 katusega ja 1 katuseta pinklaud.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1581",
@@ -6849,7 +6599,7 @@
             "coord_y" : 6509626,
             "equipment" : "edasi-tagasi 450 m pikkune pinnasetee, raja alguses 1 infotahvel",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/naarikivide-opperada-450m",
-            "location" : "Metskülas Lihula vallas Läänemaal",
+            "location" : "Metskülas Lihula vallas Läänemaal.",
             "name" : "Näärikivide õpperada (450m)",
             "sights" : "Näärikivide rändrahnud ja karjatatav rannaniit, mille taimkatet iseloomustab soolalembeste liikide rohkus.",
             "type" : "õpperada"
@@ -6867,11 +6617,11 @@
          "properties" : {
             "coord_x" : 601264,
             "coord_y" : 6597629,
-            "equipment" : "3 kaetud lõkkekohta, 2 varikatusega lauda pinkidega, 2 katuseta lauda pinkidega, laavu, puukuur, kuivkäimlad, prügikastid, infotahvel.Kaev puudub, tarbevett saab võtta jõest",
+            "equipment" : "4 kaetud lõkkekohta, 2 varikatusega lauda pinkidega, 2 katuseta lauda pinkidega, laavu, puukuur, kuivkäimlad, prügikastid, infotahvel.Kaev puudub, tarbevett saab võtta jõest",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1722",
-            "location" : "Nõmmeveskil, Valgejõe paremal kaldal. Objekt nr 10 puhkeala kaardil.",
+            "location" : "Nõmmeveskil, Valgejõe paremal kaldal",
             "name" : "Nõmmeveski lõkkekoht",
             "sights" : "Nõmmeveski astang Valgejõel, jõe kõrged kaldad, kanjon ja laialehine pangamets, vana elektrijaama säilmed",
             "type" : "lõkkekoht"
@@ -6910,31 +6660,12 @@
          "properties" : {
             "coord_x" : 478515,
             "coord_y" : 6563448,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammid teabematerjalid ja info Nõva ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk) püsinäitus, mis tutvustab tulekahjusid metsas ja arktiliste merelindude rännetnäitus \"Puudest algab mets\". Loe lähemalt siit.näitus \"Vereta Jaht\" XVIII - avatud 29.08.2016-31.08.2017. Loe lähemalt siit.võimalus vaadata filme ja kasutada teabekogumetsa- ja loodusteemalised üritusedlõkkepuude müük võimalus rentida saali loodusteemaliste ürituste korraldamiseks; hind 13 €/tund",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/nova-looduskeskus",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammid teabematerjalid ja info Nõva ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk) püsinäitus, mis tutvustab tulekahjusid metsas ja arktiliste merelindude rännetnäitus \"Puudest algab mets\". Loe lähemalt siit.näitus \"Vereta Jaht\" XVIII - avatud 29.08.2016-31.08.2017. Loe lähemalt siit.võimalus vaadata filme ja kasutada teabekogumetsa- ja loodusteemalised üritusedlõkkepuude müük võimalus rentida saali loodusteemaliste ürituste korraldamiseks; hind 15 €/tund",
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/nova-kulastuskeskus",
             "location" : "Peraküla, Nõva vald, 91114 Lääne maakond",
-            "name" : "Nõva looduskeskus",
-            "sights" : "Tegevust leiavad  nii noored kui eakamad, Teid ootavad metsamängud, avastusretk mikroskoobiga liivamaailma ja looduslikest materjalidest meisterdamine.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               23.623905,
-               59.208927
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 478515,
-            "coord_y" : 6563448,
-            "equipment" : "Teabematerjalid ja info Nõva puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/1458",
-            "location" : "Peraküla, Nõva vald, Läänemaa",
-            "name" : "Nõva teabepunkt",
-            "type" : "teabepunkt"
+            "name" : "Nõva külastuskeskus",
+            "sights" : "Tegevust leiavad  nii noored kui eakamad. Teid ootavad metsamängud, avastusretk mikroskoobiga liivamaailma ja looduslikest materjalidest meisterdamine.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -6949,13 +6680,13 @@
          "properties" : {
             "coord_x" : 618814,
             "coord_y" : 6604919,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammidkaardid jt teabematerjalid Põhja-Eesti puhkeala ja Lahemaa rahvuspargi kohta, samuti pärandkultuuri ja selle inventeerimist käsitlevad materjalid (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).Oandu on matka- ja õpperadade sõlmpunkt, siit leiab igaüks leiab sobiva retkemarsruud slaidiprogramm ja vanad dokfilmid metsast ja metsatöödest endistel aegadel looduskeskuse teabekogude kasutamise võimalusõppepäevad pärandkultuuri ja metsaga seotud teemadel metsa- ja pärandkultuuri teemalised üritused võimalik rentida saali ja õppeklassi loodusteemalisteks üritusteks: saal kuni 3 tundi 13 EUR/tundNäitusedAvatud teabepunkti lahtiolekuaegadel, 15.oktoobrist 15.aprillini külastamine kokkuleppelPuud ja inimesed – metsatöö endistel aegadelKuidas käbist saadi puuMereranna õpitubaAltja loodusraja näitel saab tutvuda Lahemaa randade ja rannikumerega ning selle asukatega  – karpide, tigude, vetikate, taimede ja paljude teistega.",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammidkaardid jt teabematerjalid Põhja-Eesti puhkeala ja Lahemaa rahvuspargi kohta, samuti pärandkultuuri ja selle inventeerimist käsitlevad materjalid (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).Oandu on matka- ja õpperadade sõlmpunkt, siit leiab igaüks leiab sobiva retkemarsruud slaidiprogramm ja vanad dokfilmid metsast ja metsatöödest endistel aegadel külastuskeskuse teabekogude kasutamise võimalusõppepäevad pärandkultuuri ja metsaga seotud teemadel metsa- ja pärandkultuuri teemalised üritused võimalik rentida saali ja õppeklassi loodusteemalisteks üritusteks: saal kuni 3 tundi 15 EUR/tundNäitusedAvatud teabepunkti lahtiolekuaegadel, 15.oktoobrist 15.aprillini külastamine kokkuleppelPuud ja inimesed – metsatöö endistel aegadelKuidas käbist saadi puuKivid kõnelevad. Lahemaa rändrahnud, kivimid, mineraalid. Islandi kivimid.",
             "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/oandu-looduskeskus",
+            "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/oandu-kulastuskeskus",
             "location" : "Oandu, Vihula vald 45432, Lääne-Virumaa, puhkeala kaardil objekt nr 1",
-            "name" : "Oandu looduskeskus",
-            "sights" : "Looduskeskuse näitused, Lahemaa loodusrajad, Altja kaluriküla (2 km looduskeskusest), Sagadi mõis (3 km looduskeskusest), Ojakivi, Altja Suurkivi jt Lahemaa rändrahnud jm loodusobjektid.",
-            "type" : "looduskeskus"
+            "name" : "Oandu külastuskeskus",
+            "sights" : "Külastuskeskuse näitused, Lahemaa loodusrajad, Altja kaluriküla (2 km külastuskeskusest), Sagadi mõis (3 km külastuskeskusest), Ojakivi, Altja Suurkivi jt Lahemaa rändrahnud jm loodusobjektid.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -6991,7 +6722,7 @@
          "properties" : {
             "coord_x" : 618814,
             "coord_y" : 6604919,
-            "equipment" : "Raja läbimiseks kulub umbes 1 tund. Rajal on 28 huvipunkti ja infotahvlid eesti ja inglise keeles. Niiskemates kohtades kergendab liikumist ja kaitseb õrna taimkatet laudrada.",
+            "equipment" : "Raja läbimiseks kulub umbes 1 tund. Rajal on 28 huvipunkti ja infotahvlid eesti ja inglise keeles. Niiskemates kohtades kergendab liikumist ja kaitseb õrna taimkatet laudrada.Raja äärde jäävad Oandu külastuskeskuse näitusehooned - Käbitare (vana käbikuivati), suur küün, jääkelder, ait ja väikesed küünid heinamaal, mis nüüd on saanud uue sisu ning kutsuvad keskuse lahtioleku ajal sisse astuma.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/oandu-parandkultuurirada-3-4-km",
             "location" : "Rada algab RMK Oandu looduskeskuse õuel, teeb 3,4 km pikkuse ringi hoonete vahel, heinamaal, metsas ja külateel ning jõuab lõpuks looduskeskuse peahoone juurde tagasi. Rada on tähistatud märkidega puudel ja viitadega.Palume küla vahel jalutades austada kohalike elanike kodurahu.",
@@ -7012,33 +6743,13 @@
          "properties" : {
             "coord_x" : 618814,
             "coord_y" : 6604919,
-            "equipment" : "Rada on tähistatud rohe-valgete viitadega, kirjaga TAIMETARGA RADA. Rajal on 27 infotahvlit eesti ja inglise keeles Järve kalda ääres  kergendab liikumist ja kaitseb õrna taimkatet laudrada.",
+            "equipment" : "Rada on tähistatud rohe-valgete viitadega, kirjaga TAIMETARGA RADA. Rajal on 27 infotahvlit eesti ja inglise keeles. Paisjärve kaldast viivad alla trepid ja veetaimestikku saab vaadata laudrajalt. Raja ääres on pinke, laud-pinke ja katusealuseid. Vaatamisväärsused Vanad heinaküünid ja endised metskonna hooned, milles on näitused (avatud külastuskeskuse lahtioleku ajal). Taluaia peenrad vanade lille- ja aedviljasortidega, Jääkelder näitusega „Metsa apteek ja toidusahver“",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/oandu-taimetarga-rada",
-            "location" : "Rada algab Oandu looduskeskuse parkla juurest ja teeb ~1 km pikkuse ringi looduskeskuse juures ja Oandu paisjärve kaldal.",
+            "location" : "Rada algab Oandu külastuskeskuse parkla juurest ja teeb ~1 km pikkuse ringi külastuskesuse juures ja Oandu paisjärve kaldal.",
             "name" : "Oandu taimetarga rada (1 km)",
-            "sights" : "Pärandkultuuriobjektid, erinevad metsatüübid, taimeaed, metsloomade tegutsemisjäljed.",
+            "sights" : "Rada lookleb üle lillerohkete muruplatside jõe kaldale, kaldast alla veepiirile, siis mööda heinamaad ja metsaserva mudasele jõeluhale, sealt looduslikule niidule ning läbi hämara metsaaluse tagasi looduskeskuse õuele. Raja kõrvale jääb mõisaaegne jääkelder, kus on näitus „Metsa apteek ja toidusahver“ ning taluaia taimede peenrad vanas õunaaias endisaegsete lille-, köögivilja- ja maitsetaimesortidega. Lisaks taimekooslusi ja taimi tutvustavatele tahvlitele on Oandu paisjärve kaldal 5 infotahvlit kahepaiksetest ja kiilidest, mis näitavad eraldi ka Lahemaal elutsevaid liike. Kui satud siia kevadel, saad kuulda konnade pulmalaulu.",
             "type" : "õpperada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               26.101993,
-               59.565011
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 618814,
-            "coord_y" : 6604919,
-            "equipment" : "Teabematerjalid ja info Lahemaa rahvuspargi, Põhja-Eesti puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/oandu-teabepunkt",
-            "location" : "Oandu küla, Vihula vald, Lääne-Viru maakond",
-            "name" : "Oandu teabepunkt",
-            "type" : "teabepunkt"
          },
          "type" : "Feature"
       },
@@ -7053,7 +6764,7 @@
          "properties" : {
             "coord_x" : 618544,
             "coord_y" : 6604617,
-            "equipment" : "3 lõkkekohta, 1 kaetud lõkkekoht, 1 laavu tüüpi katusealune, 2 varikatusega lauda, joogivesi 300 m kaugusel Oandu looduskeskuse õuel, käimla, samuti olemas invakäimla",
+            "equipment" : "5 lõkkekohta, 1 kaetud lõkkekoht, 1 laavu tüüpi katusealune, 2 varikatusega lauda, joogivesi 300 m kaugusel Oandu looduskeskuse õuel, käimla, samuti olemas invakäimla",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1719",
@@ -7120,7 +6831,7 @@
             "equipment" : "liikumise kergendamiseks on osadele matkaraja lõikudele rajatud laudtee",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/ojakivi",
             "location" : "Lääne-Virumaa, 3 km Võsult Vergi poole",
-            "name" : "Ojakivi rada (2,5 km)",
+            "name" : "Ojakivi rada (5 km)",
             "type" : "matkarada"
          },
          "type" : "Feature"
@@ -7240,9 +6951,9 @@
          "properties" : {
             "coord_x" : 639987,
             "coord_y" : 6395803,
-            "equipment" : "Telkimisalal on küttekoldeta metsaonnid 12 narikohaga, 4 käimlat, 7 lõkkekohta pinkidega ja lauad pinkidega. Ruumi 40 telgile.",
+            "equipment" : "Telkimisalal on küttekoldeta metsaonnid 12 narikohaga, 4 käimlat, 7 lõkkekohta pinkidega ja lauad pinkidega.",
             "has_firesite" : 1,
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1442",
             "location" : "Aheru järve kaldal, Taheva vallas, Valgamaal.",
             "name" : "Oore telkimisala",
@@ -7301,9 +7012,9 @@
          "properties" : {
             "coord_x" : 428314,
             "coord_y" : 6518514,
-            "equipment" : "suur infotahvel, 12 väiksemat infotahvlit, 600 m laudrada roostikus, kaks vaateplatvormi (6m kõrge Silmakarel, 3 m kõrge Kassari saarel), jalgrataste hoidik, istepingid. Läbitav kuiva jalaga, tähistatud viitade ja rajapostidega",
+            "equipment" : "suur infotahvel, 12 väiksemat infotahvlit, 600 m laudrada roostikus, kaks vaateplatvormi (6m kõrge Silmakarel, 3 m kõrge Kassari saarel), jalgrataste hoidik, istepingid. Läbitav kuiva jalaga, tähistatud viitade ja rajapostidega.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1323",
-            "location" : "Käina lahe-Kassari maastikukaitsealal. Raja algus linnutorni või Orjaku silma juures parklas. Puhkeala kaardil objekt nr 5",
+            "location" : "Käina lahe-Kassari maastikukaitsealal. Raja algus on Orjaku silma juures parklas. Puhkeala kaardil objekt nr 5.",
             "name" : "Orjaku õpperada (0,7-2 km)",
             "sights" : "Käina laht on pigem rannikujärv kui merelaht. Selle keskmine sügavus on vaid 0,5 m ja laht on merega ühendatud 3 kanali kaudu. Lahes on kokku 23 saart, mis on madalad ja enamasti pillirooga ümbritsetud. Huvitav ja liigirikas Käina lahe linnustik. Sügisel peatub lahel 10-15 tuhat, maksimaalselt 20 tuhat vee- ja rannikulindu.",
             "type" : "õpperada"
@@ -7322,6 +7033,7 @@
             "coord_x" : 592387,
             "coord_y" : 6585517,
             "equipment" : "avatud grillrestiga lõkkekoht, lehtla tüüpi katusealune, laud, 2 pinki, puudealune, kuivkäimla, prügikast, infotahvel",
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1559",
             "location" : "Anija vallas Harjumaal, Soodla jõe kaldal Oru silla lähistel. Objekt nr 7 puhkeala kaardil.",
             "name" : "Oru lõkkekoht",
@@ -7488,7 +7200,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/padise-lokkekoht",
-            "location" : "Padise vallas, Padise külas",
+            "location" : "Padise vallas Padise külas",
             "name" : "Padise lõkkekoht",
             "sights" : "Padise klooster, Padise mõis",
             "type" : "lõkkekoht"
@@ -7590,13 +7302,13 @@
          "properties" : {
             "coord_x" : 402857,
             "coord_y" : 6535537,
-            "equipment" : "Ruumi 25 telgile. Parkla, infotulp, kuivkäimla, vaatlustorn, 4 grillimisrestidega varustatud lõkkekohta, 1 kaetud lõkkekoht ja varikatusealune väikese küttekoldega.",
+            "equipment" : "Parkla, infotulp, kuivkäimla, vaatlustorn, 3 grillimisrestidega varustatud lõkkekohta, 4 katusega pinklauda ja varikatusealune väikese küttekoldega, 4 pinklauda suures varjualuses.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1580",
             "location" : "Telkimisala asub Kõpu poolsaare põhjapoolsel küljel, Palli säärel, külast u 0,5 km kaugusel mere ääres. Objekt nr 21 puhkeala kaardil.",
             "name" : "Palli telkimisala ja linnuvaatlustorn",
-            "sights" : "Siin saad tundma õppida liigirikkaid rannikumetsi telkimisalalt algaval Palli matkarajal või imetleda merevaateid ja veelinde linnuvaatlustornist.",
+            "sights" : "Siin saad tundma õppida liigirikkaid rannikumetsi telkimisalalt algaval Palli õpperajal või imetleda merevaateid ja veelinde linnuvaatlustornist.",
             "type" : "telkimisala"
          },
          "type" : "Feature"
@@ -7615,7 +7327,7 @@
             "equipment" : "Rada kulgeb  Palli telkimisala vahetus läheduses ja on varustatud puust suunavate viitadega. Rada algab ja lõppeb telkimisalal oleva infotulba juures, kus on olemas ka raja skeem. Aega raja läbimiseks kulub 30-50 minutit, vaatamisväärsusi tutvustavad 6 infoalust.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1573",
-            "location" : "Matkarada algab Palli telkimisalalt, mis asub Kõpu poolsaare põhjapoolsel küljel, Palli säärel, külast u 0,5 km kaugusel mere ääres. Objekt nr 21 puhkeala kaardil.",
+            "location" : "Õpperada algab Palli telkimisalalt, mis asub Kõpu poolsaare põhjapoolsel küljel, Palli säärel, külast u 0,5 km kaugusel mere ääres. Objekt nr 21 puhkeala kaardil.",
             "name" : "Palli õpperada (1,5 km)",
             "sights" : "Lisaks rannikukoosluste ja metsade tundmaõppimisele võid vaadelda merelinde Palli telkimisala kõrval asuvast linnuvaatlustornist.",
             "type" : "õpperada"
@@ -7675,7 +7387,7 @@
          "properties" : {
             "coord_x" : 651384,
             "coord_y" : 6452962,
-            "equipment" : "Parkla, infotahvel, laud-pingid varikatusega, 4 pinki, kattega lõkkease, lõkkease lõkkerestiga, puude varjualune ja käimla. Lubatud telkimine (kuni 10 telki)",
+            "equipment" : "Parkla, infotahvel, laud-pingid varikatusega, 4 pinki, kattega lõkkease, lõkkease lõkkerestiga, puude varjualune ja käimla.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/16470",
@@ -7719,7 +7431,7 @@
          "properties" : {
             "coord_x" : 651529,
             "coord_y" : 6453744,
-            "equipment" : "Laud-pingid varikatusega, kattega lõkkease, pingid, puude varjualune ja käimla. Lubatud telkimine (kuni 5 telki).",
+            "equipment" : "Laud-pingid varikatusega, kattega lõkkease, pingid, puude varjualune ja käimla.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1668",
@@ -7741,7 +7453,7 @@
          "properties" : {
             "coord_x" : 651156,
             "coord_y" : 6453866,
-            "equipment" : "Parkla, infotahvel, 3 kohas kattega lõkkeasemed, laud-pingid varikatusega, 3 lõkkeaset lõkkerestiga, 18 pinki, puukuur, 2 käimlat ja riietuskabiinid, valla poolt rajatud aktiiv-puhkuse elemendid, võrkpalliplats. Ruumi 30 telgile.",
+            "equipment" : "Parkla, infotahvel, 3 kohas kattega lõkkeasemed, laud-pingid varikatusega, 3 lõkkeaset lõkkerestiga, 18 pinki, puukuur, 2 käimlat ja riietuskabiinid, valla poolt rajatud aktiiv-puhkuse elemendid, võrkpalliplats.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1669",
@@ -7763,7 +7475,7 @@
          "properties" : {
             "coord_x" : 660729,
             "coord_y" : 6504917,
-            "equipment" : "Infotahvel, laud-pingid varikatusega, kattega lõkkease, 2 restiga lõkkeaset, puude varjualune, 9 pinki, kompostkäimla. Lubatud telkimine (kuni 10 telki).",
+            "equipment" : "Infotahvel, laud-pingid varikatusega, kattega lõkkease, 2 restiga lõkkeaset, puude varjualune, 9 pinki, kompostkäimla. ",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/9487",
@@ -7826,7 +7538,7 @@
             "coord_y" : 6540211,
             "equipment" : "infotahvel, pink, prügikast",
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/vormsi-maastikukaitseala/9450",
-            "location" : "Hullo külas Vormsi vallas Läänemaal",
+            "location" : "Hullo külas Vormsi vallas Läänemaal.",
             "name" : "Parunikivi puhkekoht",
             "sights" : "Männimetsas asuv 20-meetrise ümbermõõduga rabakivist rändrahn. Pealt lame, püstiste külgedega, suur osa kivist on maa sees. Kivil on pühendus viimasele Vormsi parunile Otto Friedrich Fromhold von Stackelbergile. Aastast 1941 on kivi looduskaitse all, kultuurimälestiseks tunnistatud aastal 1997.",
             "type" : "puhkekoht"
@@ -7844,12 +7556,12 @@
          "properties" : {
             "coord_x" : 595460,
             "coord_y" : 6584715,
-            "equipment" : "Rada on ringikujuline, tähistatud kollaste värvimärkidega puudel, rajal on 9 huvipunkti kirjeldustega, vaatetorn, telkimisala Paukjärve kallastel",
+            "equipment" : "Rada on ringikujuline, tähistatud kollaste värvimärkidega puudel, rajal on 9 huvipunkti kirjeldustega, vaatetorn, telkimisala Paukjärve kallastel.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1551",
             "location" : "Kuusalu vallas Harjumaal, Soodla ja Valgejõe vahelisel alal Paukjärve ümbruses. Objekt nr 9 puhkeala kaardil.",
             "name" : "Paukjärve loodusrada (5 km)",
-            "sights" : "Eriilmelised metsajärved ja pinnavormid, erinevad metsatüübid, Noorte Meeste Kristliku Ühingu vana laagriplats II maailmasõja eelsest ajast",
+            "sights" : "Eriilmelised metsajärved ja pinnavormid, erinevad metsatüübid, Noorte Meeste Kristliku Ühingu vana laagriplats II maailmasõja eelsest ajast.",
             "type" : "õpperada"
          },
          "type" : "Feature"
@@ -7907,7 +7619,7 @@
          "properties" : {
             "coord_x" : 573843,
             "coord_y" : 6556967,
-            "equipment" : "Erineva pikkuse ja raskusega loodusrajad. Parklas kaart radade skeemi ja üldinfoga. Rajad tähistatud punaste värvimärkidega puudel ning varustatud puidust suunaviitadega. 330 m ulatuses kulgeb rada laudteel. Radade piirkonda jääb RMK Paunküla lõkkekoht.",
+            "equipment" : "Erineva pikkuse ja raskusega loodusrajad. Parklas kaart radade skeemi ja üldinfoga. Rajad tähistatud punaste värvimärkidega puudel ning varustatud puidust suunaviitadega. 850 m ulatuses kulgeb rada laudteel. Radade piirkonda jääb RMK Paunküla lõkkekoht.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1226",
             "location" : "Kõue vallas, Harjumaal (Tallinn-Tartu mnt. ääres). Algab Rõõsa bussipeatuse tagant.",
@@ -7929,6 +7641,7 @@
             "coord_x" : 577768,
             "coord_y" : 6597964,
             "equipment" : "kaetud lõkkease, teabeonn infotahvlitega, varikatusega laud, kuivkäimla. Metsakuivad küttepuud on lõkkekoha lähedal hunnikutes, need tuleb ise saagida-lõhkuda.",
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/pohja-eesti-puhkeala/1623",
             "location" : "Pedassare läänepoolse randumiskoha juures, metsa piiril. Objekt nr 18 puhkeala kaardil.",
             "name" : "Pedassaare lõkkekoht",
@@ -7971,7 +7684,7 @@
             "has_firesite" : 1,
             "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/pohja-eesti-puhkeala/1626",
-            "location" : "Kolga lahe väikesaarel Pedassaarel, kõige paremini saab sinna paadiga Salmistu sadamast. Objekti nr 16 puhkeala kaardil.",
+            "location" : "Kolga lahe väikesaarel Pedassaarel, kõige paremini saab sinna paadiga Salmistu sadamast (kontakttelefon +372 504 0792). Objekti nr 16 puhkeala kaardil.",
             "name" : "Pedassaare metsamaja",
             "sights" : "Saare edelarand on suurepärane koht rannapuhkuseks, päevitamiseks ja supluseks. Rajatud on ka Pedassaare loodusrada mööda saare rannikut.",
             "type" : "metsamaja"
@@ -8033,7 +7746,7 @@
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/1238",
             "location" : "Penijõe külas ja Kirikukülas Lihula vallas Läänemaal.",
             "name" : "Penijõe matkarada (3,2-7 km)",
-            "sights" : "Matsalu looduskeskus, Penijõe mõisakompleks, eriilmelised kooslused, Penijõe vaatetorn, Viita puisniit",
+            "sights" : "Matsalu rahvuspargi külastuskeskus, Penijõe mõisakompleks, eriilmelised kooslused, Penijõe vaatetorn, Viita puisniit",
             "type" : "matkarada"
          },
          "type" : "Feature"
@@ -8195,7 +7908,7 @@
             "coord_y" : 6453885,
             "equipment" : "Rada algab ja lõpeb Pangodi järve ääres asuva infotahvli juurest. Rajal on viidad (5 tk) ning rada läheb mööda Pangodi telkimisalast ja lõkkekohast.",
             "has_firesite" : 1,
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1200",
             "location" : "Kambja vald, Tartumaa.",
             "name" : "Pikksaare matkarada (1 km)",
@@ -8420,12 +8133,32 @@
             "coord_x" : 694926,
             "coord_y" : 6423839,
             "equipment" : "Maja mahutab 20 inimest. Miinimumvajadustele sisustatud ja puuküttega pliidiga köök, kaks ahiküttega tuba, kuivkäimla väljas. Olemas lõkkekoht ja laud-pingid pikniku pidamiseks. Magamisvõimalus põrandal, varustus peab külastajal endal kaasas olema. Tarbevesi kaevust. Puudub joogivesi.Saun eraldi hoones.  ",
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/rapina-varska-puhkeala/1388",
             "location" : "Veriora vallas, Põlvamaal.",
             "name" : "Praali metsamaja",
             "sights" : "Suurepärane koht metsapuhkuseks, ca 3 km kaugusele jääb Meenikunno MKA rabajärvede, matkaraja ja vaatetorniga, Valgejärv, Mustjärv.",
             "type" : "metsamaja"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               26.840063,
+               58.682706
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "coord_x" : 664672,
+            "coord_y" : 6508260,
+            "equipment" : "Varjualune, kompostkäimla, paadisild",
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/priistani-puhkekoht",
+            "location" : "Saare vald, Jõgevamaa",
+            "name" : "Priistani puhkekoht",
+            "sights" : "Kääpa jõgi",
+            "type" : "puhkekoht"
          },
          "type" : "Feature"
       },
@@ -8444,9 +8177,9 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1522",
-            "location" : "Kabli küla, Häädemeeste vald, Pärnumaa. Liikudes vana Pärnu-Ikla maanteed lõuna suunas Kabli looduskeskuseni.",
+            "location" : "Kabli küla, Häädemeeste vald, Pärnumaa. Liikudes vana Pärnu-Ikla maanteed lõuna suunas Kabli külastuskeskuseni.",
             "name" : "Priivitsa lõkkekoht",
-            "sights" : "Kaunis ja vaheldusrikas loodus ning mererand, võimalus telkida ja lõket teha, külastada Kabli looduskeskust ja teabepunkti või hoopis jalutada Kabli looduse õpperajal.",
+            "sights" : "Kaunis ja vaheldusrikas loodus ning mererand, võimalus telkida ja lõket teha, külastada Kabli külastuskeskust või hoopis jalutada Kabli looduse õpperajal.",
             "type" : "lõkkekoht"
          },
          "type" : "Feature"
@@ -8525,7 +8258,7 @@
             "coord_y" : 6389804,
             "equipment" : "Majas on 3 tuba, mahutab 8 inimest. Miinimumvajadustele sisustatud köök (minikülmik, elektripliit), puuküttega pliit, kamin-ahi, laud-pingid, 3 voodit, kuivkäimla. Magamisvõimalus põrandal, varustus peab külastajal endal kaasas olema. Eraldi majas saun (kaminaruum, pesuruum, leiliruum). Õues on katusealune lõkkekoha ja laud-pinkidega. Puudub joogivesi.",
             "has_firesite" : 1,
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/4439",
             "location" : "Pullijärve kaldal, Misso vallas, Võrumaal. Riia-Pihkva mnt ääres (Misso vana koolimaja juures) näitab suunaviit vasakule Pullijärve metsamaja.",
             "name" : "Pullijärve metsamaja",
@@ -8545,8 +8278,7 @@
          "properties" : {
             "coord_x" : 595669,
             "coord_y" : 6615670,
-            "equipment" : "7 lõkkekohta, neist 3 kaetud lõkkekohta, 2 varikatusega lauda, kaev puudub",
-            "has_tenting" : 1,
+            "equipment" : "6 lõkkekohta, neist 3 kaetud lõkkekohta, 2 varikatusega lauda, kaev puudub",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1724",
             "location" : "Pärispea poolsaare tipus, Purekkari neeme juures. Poolsaare tippu viiv tee on kitsas ja auklik, ega ole läbitav suurtele ekskursioonibussidele. Objekt nr 13 puhkeala kaardil.",
             "name" : "Purekkari telkimisala",
@@ -8587,14 +8319,14 @@
          "properties" : {
             "coord_x" : 665463,
             "coord_y" : 6391090,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel;tasulised loodusõppeprogrammid;teabematerjalid ja info Haanja-Karula ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)telkimisvõimalus kuni 50 inimesel;pikniku ja lõkke tegemise võimalus;metsa- ja loodusteemalised üritused;võimalik rentida saali ja väliõppeklassi loodusteemaliste ürituste tarbeks; kuni 3 tundi 13 EUR/tund.NäitusedKagu-Eesti ristipuu",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel;tasulised loodusõppeprogrammid;teabematerjalid ja info Haanja-Karula ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)telkimisvõimalus kuni 50 inimesel;pikniku ja lõkke tegemise võimalus;metsa- ja loodusteemalised üritused;võimalik rentida saali ja väliõppeklassi loodusteemaliste ürituste tarbeks; kuni 3 tundi 15 EUR/tund.NäitusedKagu-Eesti ristipuu",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1426",
             "location" : "Pähni küla, Varstu vald, 66116 Võrumaa.",
-            "name" : "Pähni looduskeskus",
-            "sights" : "Looduskeskus asub Haanja-Karula puhkealal. Pähnis saab looduskeskuses, puhkerajatistel ja õpperadadel veeta kasulikke tunde kas juhendaja saatel, omapäi või jagades aega mõlemal viisil.",
-            "type" : "looduskeskus"
+            "name" : "Pähni külastuskeskus",
+            "sights" : "Külastuskeskus asub Haanja-Karula puhkealal. Pähnis saab külastuskeskuses, puhkerajatistel ja õpperadadel veeta kasulikke tunde kas juhendaja saatel, omapäi või jagades aega mõlemal viisil.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -8609,7 +8341,7 @@
          "properties" : {
             "coord_x" : 665459,
             "coord_y" : 6391142,
-            "equipment" : "Rada algab looduskeskuse juurest ja lõppeb samas kohas. Rajal on 20 huvipunkti. Sissetallatud radu enamasti ei ole ja edasiminekutee tuleb otsida üle muru, läbi märja rohu või läbi metsa minnes. Igas punktis juhatatakse kätte edasine tee. Loe rajajuhiseid igas peatuskohas tähelepanelikult, et mitte eksida.",
+            "equipment" : "Rada algab külastuskeskuse juurest ja lõppeb samas kohas. Rajal on 20 huvipunkti. Sissetallatud radu enamasti ei ole ja edasiminekutee tuleb otsida üle muru, läbi märja rohu või läbi metsa minnes. Igas punktis juhatatakse kätte edasine tee. Loe rajajuhiseid igas peatuskohas tähelepanelikult, et mitte eksida.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1429",
@@ -8631,7 +8363,7 @@
          "properties" : {
             "coord_x" : 665212,
             "coord_y" : 6390989,
-            "equipment" : "Metsaonnis on lisaks kuusnurksele ringis pinkidega metsaonnile veel katusega laud ja pingid, lõkkease, sädemepüüdjaga lõkkease, puukuur katusealuse lavatsiga ja käimla. Ruumi 15 telgile.",
+            "equipment" : "Lisaks kuusnurksele ringis pinkidega metsaonnile on siin veel katusega laud ja pingid, lõkkease, sädemepüüdjaga lõkkease, puukuur katusealuse lavatsiga ja käimla.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1434",
@@ -8657,26 +8389,6 @@
             "location" : "Pähni külas, Varstu vallas Võrumaal.",
             "name" : "Pähni metsaõpperada (3 km)",
             "type" : "õpperada"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               26.770285,
-               57.631338
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 665463,
-            "coord_y" : 6391090,
-            "equipment" : "Teabematerjalid ja info Haanja-Karula ning teiste RMK puhkealade kohta. (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/pahni-teabepunkt",
-            "location" : "Pähni küla, Varstu vald, Võrumaa",
-            "name" : "Pähni teabepunkt",
-            "type" : "teabepunkt"
          },
          "type" : "Feature"
       },
@@ -8733,7 +8445,7 @@
          "properties" : {
             "coord_x" : 472099,
             "coord_y" : 6565621,
-            "equipment" : "Vaatlusonn, pink, teabetahvel ja kuivkäimla",
+            "equipment" : "Vaatlusmajake, pink, teabetahvel ja kuivkäimla",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/1471",
             "location" : "Spithami külas Noarootsi vallas Läänemaal. Puhkeala kaardil objekt nr 12.",
             "name" : "Põõsaspea puhkekoht",
@@ -8903,7 +8615,7 @@
             "coord_y" : 6519637,
             "equipment" : "4m kõrge vaatetornini viib 110 m  laudteed. Torni juures on katusealune puhkekoht laua ja 2 pingiga, 1 laud asub vaateplatvormil. Kogu kompleks sobib kasutamiseks ka ratastooliga liikujale, kuna torni viivad kaldteed ning katusealune on laudpõrandaga.Laudtee alguses jõeluhta tutvustav infotahvel.",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/1242",
-            "location" : "Martna vallas Läänemaal.",
+            "location" : "Martna vallas Rannajõe külas Läänemaal.",
             "name" : "Rannajõe vaatetorn",
             "sights" : "suurepärane vaade Kasari luhaniidule",
             "type" : "vaatetorn"
@@ -8985,7 +8697,7 @@
             "coord_y" : 6463066,
             "equipment" : "pinklaud ja istepindid, parkimistasku",
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/viidumae-looduskaitseala/9270",
-            "location" : "Lääne-Saare vald, Viidu küla Regio atlas lk. 64 C3. Puhkeala kaardil nr.14",
+            "location" : "Lääne-Saare vald, Viidu küla. Regio atlas lk. 64 C3. Puhkeala kaardil nr.14",
             "name" : "Rauna vaatetorn ja puhkekoht",
             "sights" : "Saaremaa kõrgeimasse kohta, Saaremaa selgroole Rauna mäel (54 m ü.m.p.) rajatud vaatetorni tipust avaneb kaunis vaade üle kogu Lääne - Saaremaa.",
             "type" : "puhkekoht"
@@ -9106,7 +8818,7 @@
          "properties" : {
             "coord_x" : 643961,
             "coord_y" : 6402864,
-            "equipment" : "Rajal on 16 infotahvlit, 1 vaateplatvorm, purded ja karjaväravad. Rada on tähistatud puidust suunaviitade ja värvimärkidega puudel.",
+            "equipment" : "Rajal on 16 eesti-ja ingliskeelset infotahvlit, 1 vaateplatvorm, purded ja karjaväravad. Rada on tähistatud puidust suunaviitade ja värvimärkidega puudel.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/karula-rahvuspark/1308",
             "location" : "Rebasemõisa külas, Karula vallas.",
@@ -9127,7 +8839,7 @@
          "properties" : {
             "coord_x" : 557252,
             "coord_y" : 6483566,
-            "equipment" : "Rajale jääb 8 puhkekohta, vaatetorn, kuivkäimla. Riisa invarada on renoveeritud 2013.a ERF-i toel: rada läbitav ratastooliga (ka lapsevankriga)- kokku 1220m. Ratastooliga on võimalik läbida õpperada esimese laukani.",
+            "equipment" : "Rajale jääb 8 puhkekohta, vaatetorn, kuivkäimla. Riisa invarada on renoveeritud 2013.a ERF-i toel: rada läbitav ratastooliga (ka lapsevankriga) - kokku 1220 meetrit. Ratastooliga on võimalik läbida õpperada esimese laukani.",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/1274",
             "location" : "Riisa külas, Tori vallas, Pärnumaal. Regio atlas (2004-2009) lk 72 D4, C4.",
             "name" : "Riisa õpperada (4,8 km)",
@@ -9147,7 +8859,7 @@
          "properties" : {
             "coord_x" : 705894,
             "coord_y" : 6443626,
-            "equipment" : "Lõkkekohas on 3 laud-pinki varikatusega, puukuur, grill, parkla.",
+            "equipment" : "Lõkkekohas on laud-pink varikatusega, puukuur, grill, parkla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/rapina-varska-puhkeala/1367",
             "location" : "Ristipalos maantee ääres, Räpina vallas, Põlvamaal.",
@@ -9167,35 +8879,14 @@
          "properties" : {
             "coord_x" : 390195,
             "coord_y" : 6533333,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammidteabematerjalid ja info Hiiumaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda näituste ja keskuse teabekogugatelkimisvõimalussoojal ajal võimalus kasutada ka väliõppeklassi, mis mahutab kuni 20 inimest ja on sobiv mitmesuguse käelise tegevuse tarbeksmetsa- ja loodusteemalised üritusedvõimalik rentida saali või looduskeskust loodusteemaliste ürituste tarbeks; saal kuni 3 tundi 13 EUR/tund, looduskeskus üks ööpäev kuni 20 inimest 96 EUR, koos saunaga 128 EURNäitusedMere kaubamaja  Mereprügi ja prügistatuse mõjusid tutvustav näitus looduskeskuse abihoones.Peamajas köök varustatud elektripliidi, mikrolaineahju, külmikuga. Kohvimasin, veekeetja. Toidunõud 20 inimesele, potid-pannid.",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammidteabematerjalid ja info Hiiumaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalik tutvuda näituste ja keskuse teabekogugatelkimisvõimalussoojal ajal võimalus kasutada ka väliõppeklassi, mis mahutab kuni 20 inimest ja on sobiv mitmesuguse käelise tegevuse tarbeksmetsa- ja loodusteemalised üritusedvõimalik rentida saali või külastuskeskust loodusteemaliste ürituste tarbeks; saal kuni 3 tundi 15 EUR/tund, külastuskeskus üks ööpäev kuni 20 inimest 96 EUR, koos saunaga 128 EURNäitusedMere kaubamaja  Mereprügi ja prügistatuse mõjusid tutvustav näitus külastuskeskuse abihoones.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1602",
             "location" : "Kalana küla, Hiiu vald, 92212 Hiiumaa Regio atlas (2004-2009) lk 48 A2, objekt nr 27 puhkeala kaardil",
-            "name" : "Ristna looduskeskus",
-            "sights" : "Looduskeskuse juures saad tutvuda metsandusliku pärandkultuuriga ja kiigata tõelisse põlismetsa. Looduskeskusest lühema või pikema matka kaugusele jäävad Kõpu poolsaare tuletornid, Ristna kaitserajatised ja Kalana sadam. Paar kilomeetrit läbi metsa ja põhjaranniku kaunid liivarannad laiuvad su ees.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               22.0933,
-               58.925103
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 390195,
-            "coord_y" : 6533333,
-            "equipment" : "Teabematerjalid ja info Hiiumaa puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "has_firesite" : 1,
-            "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1601",
-            "location" : "Kalana küla, Kõrgessaare vald, Hiiumaa Objekt nr 27 puhkeala kaardil",
-            "name" : "Ristna teabepunkt",
-            "type" : "teabepunkt"
+            "name" : "Ristna külastuskeskus",
+            "sights" : "Külastuskeskuse juures saad tutvuda metsandusliku pärandkultuuriga ja kiigata tõelisse põlismetsa. Külastuskeskusest lühema või pikema matka kaugusele jäävad Kõpu poolsaare tuletornid, Ristna kaitserajatised ja Kalana sadam. Paar kilomeetrit läbi metsa ja põhjaranniku kaunid liivarannad laiuvad su ees.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -9214,9 +8905,9 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1575",
-            "location" : "Matkarada algab Ristna looduskeskus juurest, mis asub Kalana külas Kõrgessaare vallas Hiiumaal. Objekt nr 28 puhkeala kaardil.",
+            "location" : "Õpperada algab Ristna looduskeskus juurest, mis asub Kalana külas Kõrgessaare vallas Hiiumaal. Objekt nr 28 puhkeala kaardil.",
             "name" : "Ristna õpperada (1,5 km)",
-            "sights" : "Matkarada kulgeb säilinud põlismetsaosas ja läbib vääriselupaika, raja ääres on säilinud vana metsavahi karjamaa ja kuivenduskraavid.",
+            "sights" : "Õpperada kulgeb säilinud põlismetsaosas ja läbib vääriselupaika, raja ääres on säilinud vana metsavahi karjamaa ja kuivenduskraavid.",
             "type" : "õpperada"
          },
          "type" : "Feature"
@@ -9271,7 +8962,7 @@
             "coord_y" : 6557523,
             "equipment" : "kaugus merest 70 m",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/1474",
-            "location" : "Roosta puhkeküla lähedal, Noarootsi vallas, Läänemaal. Puhkeala kaardil objekt nr 14.",
+            "location" : "Roosta puhkeküla lähedal, Noarootsi vallas Läänemaal. Puhkeala kaardil objekt nr 14.",
             "name" : "Roosta parkla",
             "type" : "muu"
          },
@@ -9288,7 +8979,7 @@
          "properties" : {
             "coord_x" : 589431,
             "coord_y" : 6431971,
-            "equipment" : "Esimeses lõkkekohas parkla, lahtine lõkkease pinkidega, puude varjualune, laud-pingid, paadisild, infotahvel, sobib kalameestele paatide vettelaskmiseks. Teine lõkkekoht asub 100 meetrit eemal. Parkimistaskud, 1 kaetud lõkkekoht, laud-pingid-katusealune, käimla, puude varjualune, pontoonidel redeliga purre, telkimisvõimalus 3-le telgile.",
+            "equipment" : "Esimeses lõkkekohas parkla, lahtine lõkkease pinkidega, puude varjualune, laud-pingid, paadisild, infotahvel, sobib kalameestele paatide vettelaskmiseks. Teine lõkkekoht asub 100 meetrit eemal. Parkimistaskud, 1 kaetud lõkkekoht, laud-pingid-katusealune, käimla, puude varjualune, pontoonidel redeliga purre.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1532",
@@ -9313,7 +9004,7 @@
             "equipment" : "Rada on pinnasetee ja varustatud infotahvlitega. Rajal on 3 vaateplatvormi (1,5 m), ülekäigud karjaaedadest. Raja äärde jäävad 2 puhkekohta 2 pingi ja 2 lauaga.",
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/vormsi-maastikukaitseala/1247",
             "location" : "Rumpo külas Vormsi vallas Läänemaal.",
-            "name" : "Rumpo matkarada (5 km)",
+            "name" : "Rumpo matkarada (6,7 km)",
             "sights" : "vaade Hullo ja Sviby lahele, ainulaadsed tundrailmelised samblikukooslused, vee- ja rannikulindude ränne ja pesitsusala",
             "type" : "matkarada"
          },
@@ -9359,6 +9050,26 @@
             "name" : "Ruunaraipe lõkkekoht",
             "sights" : "Ruunaraipe luited, luitemännik",
             "type" : "lõkkekoht"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               26.17636,
+               58.866421
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "coord_x" : 625541,
+            "coord_y" : 6527273,
+            "equipment" : "Pingid, lõkkealus",
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/raagu-puhkekoht",
+            "location" : "Endla looduskaitseala, Jõgevamaa",
+            "name" : "Räägu puhkekoht",
+            "sights" : "Endla järv",
+            "type" : "puhkekoht"
          },
          "type" : "Feature"
       },
@@ -9450,25 +9161,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               26.848477,
-               58.695617
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 665098,
-            "coord_y" : 6509717,
-            "equipment" : "Teabematerjalid ja info kaitsealade ning RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1658",
-            "location" : "Kääpa küla, Saare vald, Jõgevamaa.",
-            "name" : "Saare teabepunkt",
-            "type" : "teabepunkt"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                23.5706278,
                59.034856
             ],
@@ -9517,12 +9209,12 @@
          "properties" : {
             "coord_x" : 574672,
             "coord_y" : 6500110,
-            "equipment" : "Rajale saab minna nii Metsavenna lõkkekoha juurest, kui Saeveski metsaonni juurest. Rajal on mitmeid infotahvleid, tutvustamaks kohapealseid objekte, rada on märgistatud sinise värviga puutüvedel. Telkimisvõimalus Metsavenna lõkkekohas ja Saeveski metsaonni juures.",
+            "equipment" : "Rajale saab minna nii Metsavenna lõkkekoha juurest, kui Saeveski metsaonni juurest. Rajal on mitmeid infotahvleid, tutvustamaks kohapealseid objekte, rada on märgistatud sinise värviga puutüvedel.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1539",
             "location" : "Algab Järva maakonnas, rajale pääseb nii Metsavenna lõkkekohast, kui Saeveski metsaonni juurest.",
             "name" : "Saarjõe õpperada (8 km)",
-            "sights" : "Rada asub Saarjõe maastikukaitsealal. Õpperada kopeerib suures osas Saarjõge koos oma ürgoruga, mis on kohati üle 5 m sügav ja 40-50 m lai. Mitmekesine maastik, erinevad metsakooslused ja pärandkultuuri objektid. Rajale jäävad Balti jääpaisjärve luited, rahvapärase nimetusega Kabelimäed.",
+            "sights" : "Õpperada kopeerib suures osas Saarjõge koos oma ürgoruga, mis on kohati üle 5 m sügav ja 40-50 m lai. Mitmekesine maastik, erinevad metsakooslused ja pärandkultuuri objektid. Rajale jäävad Balti jääpaisjärve luited, rahvapärase nimetusega Kabelimäed.",
             "type" : "õpperada"
          },
          "type" : "Feature"
@@ -9600,7 +9292,7 @@
             "coord_x" : 578435,
             "coord_y" : 6494414,
             "equipment" : "Rada on märgistatud kollase-punase triibuga tähistatud puidust postidega. Matkarajale jäävad Mullasamba ja Maltsaare puhkekohad, Kabelimäe lõkkekoht, Luite lõkkekoht koos telkimisvõimalusega ning Saeveski metsavahi koht Saarjõe kaldal.",
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1540",
             "location" : "Algus Vanaõue puhkekeskuse vastast, Suure-Jaani vallas, Viljandi maakonnas.",
             "name" : "Sakala tee matkarada (12 km)",
@@ -9663,7 +9355,7 @@
             "has_firesite" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1343",
             "location" : "Saarde vallas, Pärnumaal.",
-            "name" : "Sandra matkarada     (~ 300 m)",
+            "name" : "Sandra matkarada     (~300 m)",
             "sights" : "Soomaastik koos sinna kuuluvate taimede, lindude ja loomadega, avar vaade rabale.",
             "type" : "matkarada"
          },
@@ -9702,7 +9394,7 @@
          "properties" : {
             "coord_x" : 445812,
             "coord_y" : 6523000,
-            "equipment" : "Kümme privaatset telkimistaskut. Parkimisvõimalus, infostend, kuivkäimla, 3 pinklauda, 1 lahtine lõkkekoht, 1 kaetud lõkkekoht,  varikatusealune ja dzott II maailmasõjast  küttepuude hoidmiseks",
+            "equipment" : "10 privaatset telkimistaskut. Parkimisvõimalus, infostend, kuivkäimla, 3 pinklauda, 2 kaetud lõkkekohta, 1 katusealune pinklaud ja dzott II maailmasõjast  küttepuude hoidmiseks.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/9272",
@@ -9810,7 +9502,7 @@
             "coord_y" : 6543205,
             "equipment" : "Parklas on Saxby rannikut tutvustav infotahvel ja laud kahe pingiga. Rannikut mööda kulgeb Lääne-Vormsi rattatee, mida haldab Vormsi vald.",
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/vormsi-maastikukaitseala/1252",
-            "location" : "Saxby külas Vormsi vallas Läänemaal",
+            "location" : "Saxby külas Vormsi vallas Läänemaal.",
             "name" : "Saxby puhkekoht",
             "sights" : "Saxby rannik",
             "type" : "puhkekoht"
@@ -9828,7 +9520,7 @@
          "properties" : {
             "coord_x" : 671707,
             "coord_y" : 6490044,
-            "equipment" : "Rada algab ja lõpeb endise RMK Vara metskonna kontori juurest, on tähistatud viitadega ja kulgeb mööda metsateid põhja suunas. Rajale jäävad Kärgandi lõkkekoht ja Kukemetsa metsaonn.",
+            "equipment" : "Rada algab ja lõpeb endise RMK Vara metskonna kontori juurest, on tähistatud viitadega ja kulgeb mööda metsateid põhja suunas.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1631",
@@ -9851,6 +9543,7 @@
             "coord_x" : 688431,
             "coord_y" : 6563812,
             "equipment" : "2 lõkkekohta, katusealune, paviljon, kuivkäimla, raja kaart",
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/peipsi-pohjaranniku-puhkeala/1413",
             "location" : "Mäetaguse vald, Väike-Pungerja küla, puhkeala kaardil objekt nr 3.",
             "name" : "Selisoo lõkkekoht",
@@ -9954,7 +9647,7 @@
          "properties" : {
             "coord_x" : 660060,
             "coord_y" : 6505153,
-            "equipment" : "Infotahvel, laud-pingid varikatusega, kattega lõkkease, pingid, puude varjualune ja kompostkäimla. Lubatud telkimine (kuni 5 telki).",
+            "equipment" : "Infotahvel, laud-pingid varikatusega, kattega lõkkease, pingid, puude varjualune ja kompostkäimla. ",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/9489",
@@ -10127,33 +9820,13 @@
          "properties" : {
             "coord_x" : 560249,
             "coord_y" : 6477219,
-            "equipment" : "soodusprogrammid üldhariduskoolidele ning lasteaedadele talvel, kevadel ja sügiselteabematerjalid, info Soomaa rahvuspargi ja teiste RMK piirkondade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalus vaadata filme ja tutvuda teabekogudegaloodusõhtud ning metsa- ja loodusteemalised üritusedNäitusedViies aastaaeg 20102010. aasta viies aastaaeg oli eriline oma suuruse poolest - sellist vett pole Soomaal nähtud üle poole sajandi, jäädes vaid veidi alla 1956. aasta üleujutusele.Suurvesi ujutas maanteid, tõi muret kohalikele nii loomade, hoonete veekahjustuste kui ka suurveega laiali või minema uhutud kraami tõttu. Kõike seda võib näha Soomaa looduskeskuses olevalt näituselt. Näituse autorid on Sandra Kübarsepp, Algis ja Stella Martsoo.",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ning lasteaedadele talvel, kevadel ja sügiselteabematerjalid, info Soomaa rahvuspargi ja teiste RMK piirkondade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk)võimalus vaadata filme ja tutvuda teabekogudegametsa- ja loodusteemalised üritusedNäitusedViies aastaaeg 20102010. aasta viies aastaaeg oli eriline oma suuruse poolest - sellist vett pole Soomaal nähtud üle poole sajandi, jäädes vaid veidi alla 1956. aasta üleujutusele.Suurvesi ujutas maanteid, tõi muret kohalikele nii loomade, hoonete veekahjustuste kui ka suurveega laiali või minema uhutud kraami tõttu. Kõike seda võib näha Soomaa külastuskeskuses olevalt näituselt. Näituse autorid on Sandra Kübarsepp, Algis ja Stella Martsoo.Soomaa naiste käsitöönäitus vol2",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/10764",
             "location" : "Kõrtsi-Tõramaa, Tipu küla, Kõpu vald, 71201 Viljandimaa Regio atlas (2004-2009) lk 72 D4",
-            "name" : "Soomaa looduskeskus",
-            "sights" : "Looduskeskus asub Soomaa rahvuspargis, Kõrtsi-Tõramaal.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               25.031412,
-               58.431158
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 560249,
-            "coord_y" : 6477219,
-            "equipment" : "Teabematerjalid ja info Soomaa rahvuspargi, Sakala puhkeala ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 0,10 €/tk).",
-            "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/1267",
-            "location" : "Kõrtsi-Tõramaa, Tipu küla, Kõpu vald, Viljandimaa Regio atlas (2004-2009) lk 72 D4",
-            "name" : "Soomaa teabepunkt",
-            "type" : "teabepunkt"
+            "name" : "Soomaa rahvuspargi külastuskeskus",
+            "sights" : "Külastuskeskus asub Soomaa rahvuspargis, Kõrtsi-Tõramaal.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -10252,7 +9925,7 @@
          "properties" : {
             "coord_x" : 509682,
             "coord_y" : 6501912,
-            "equipment" : "Parklas on infostend ja käimla. Telkimisalal on sädemepüüdjaga lõkkekoht, puude varjualune, metsaonn, katusealune, käimlad, vaatetorn ja väike purre",
+            "equipment" : "Parklas on infostend ja käimla. Telkimisalal on sädemepüüdjaga lõkkekoht, puude varjualune, metsaonn, katusealune, käimlad, vaatetorn ja väike purre.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/1515",
@@ -10298,7 +9971,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1690",
-            "location" : "Salme vallas, Kuressaare-Sääre maantee 30. km pöörata paremale Lõo tee peale, sõita 300 m ja pöörata vasakule, ca 2 km pärast näitab teeviit RMK Sopi metsaonni. Regio atlas lk 64 D5, puhkeala kaardil objekt nr 11.",
+            "location" : "Salme vallas. Regio atlas lk 64 D5, puhkeala kaardil objekt nr 11.",
             "name" : "Sopi metsaonn",
             "sights" : "Liigirikas männimets. Lähedal asub Viieristi looduskaitseala ja selle matkarajad",
             "type" : "metsaonn"
@@ -10316,10 +9989,10 @@
          "properties" : {
             "coord_x" : 485330,
             "coord_y" : 6509309,
-            "equipment" : "830 m pikkune laudtee. Laudtee laienditena 2 puhkekohta laudade ja pinkidega, laudtee lõpus heinaküün. Rada varustatud 9 väikese A4 infotahvliga.",
+            "equipment" : "1.3 km pikkune edasi-tagasi pinnasteerada, mille lõpus on heinaküün - Suitsu metsaonn. Rajale jääb 2 infotahvlit, raja alguskoha läheda on kuivkäimla.",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/1235",
             "location" : "Kirikukülas Lihula vallas Läänemaal.",
-            "name" : "Suitsu matkarada (1 km)",
+            "name" : "Suitsu matkarada (1,3 km)",
             "sights" : "Matsalu mets, luhaniit, roostik, Suitsu jõgi, vanad kalurionnid, Suitsu vaatetorn",
             "type" : "matkarada"
          },
@@ -10378,7 +10051,7 @@
             "coord_y" : 6509313,
             "equipment" : "Metallkonstruktsiooniga pealt avatud 21 m kõrge vaatetorn.",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/matsalu-rahvuspark/1237",
-            "location" : "Kirikukülas Lihula vallas Läänemaal",
+            "location" : "Kirikukülas Lihula vallas Läänemaal.",
             "name" : "Suitsu vaatetorn",
             "sights" : "Matsalu mets, luhaniit, roostik, Suitsu jõgi, vanad kalurionnid, Suitsu matkarada",
             "type" : "vaatetorn"
@@ -10418,7 +10091,7 @@
             "coord_y" : 6474367,
             "equipment" : "Infotahvel",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1687",
-            "location" : "Lääne-Saare vallas, Üru külas. Regio atlas lk 60 C5, puhkeala kaardil objekt nr 31.",
+            "location" : "Lääne-Saare vallas Üru külas. Regio atlas lk 60 C5, puhkeala kaardil objekt nr 31.",
             "name" : "Suure Tõllu kerisekivi puhkekoht",
             "sights" : "Saaremaa üks suurimaid ja legendiderohkemaid hiidrahne. Erineva vanusega hästimajandatud männikud.",
             "type" : "puhkekoht"
@@ -10478,7 +10151,7 @@
          "properties" : {
             "coord_x" : 439138,
             "coord_y" : 6538569,
-            "equipment" : "Lõkkekohas on kaetud lõkkekoht, pingid, välikäimla, vaateplatvorm, prügikast. Telkimine lubatud 5 telgiga.",
+            "equipment" : "Kaetud lõkkekoht, pingid, välikäimla, vaateplatvorm, prügikast. Telkimine lubatud 5 telgiga.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1598",
@@ -10500,7 +10173,7 @@
          "properties" : {
             "coord_x" : 431366,
             "coord_y" : 6515090,
-            "equipment" : "2 kaetud lõkkekohta,  2 katusega laud- pinki, kuivkäimla, puukuur",
+            "equipment" : "2 kaetud lõkkekohta,  3 katusega pinklauda, kuivkäimla, puukuur",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/18788",
@@ -10545,7 +10218,7 @@
             "coord_y" : 6572949,
             "equipment" : "raja alguses infotahvel kaardi ja üldinfoga, rajal 13 nummerdatud huvipunkti ja 1 puhkekoht",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/aegviidu-korvemaa-puhkeala/1545",
-            "location" : "Aegviidu vallas Harjumaal, Aegviidu looduskeskuse vahetus läheduses, objekt nr 2 puhkeala kaardil.",
+            "location" : "Aegviidu vallas Harjumaal, Aegviidu külastuskeskuse vahetus läheduses, objekt nr 2 puhkeala kaardil.",
             "name" : "Sõõriksoo loodusrada (1,5 km)",
             "sights" : "Mets, turbaraba vanade turbaaukudega, loomade ja lindude tegutsemise jäljed",
             "type" : "õpperada"
@@ -10650,7 +10323,7 @@
             "coord_y" : 6386466,
             "equipment" : "Rada läbib mitut lõkkekohta, kus saab puhata ja kerge eine võtta. Rajal on 8 infotahvlit.",
             "has_firesite" : 1,
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1436",
             "location" : "Raja algus Tellingumäe jalamil, Taheva vallas, Valgamaal.",
             "name" : "Taheva rattarada (21 km)",
@@ -10709,7 +10382,7 @@
          "properties" : {
             "coord_x" : 541599,
             "coord_y" : 6588919,
-            "equipment" : "kaardid ja infomaterjalid puhkamisvõimaluste kohta riigimetsas; suur puutetundlik ekraan, millel kuvatakse interaktiivne metsaväärtuste kaart. Üleval vahetuvad näitused:Näitus „Seeking Souls“ – fotolavastused Eestis ja Islandil.",
+            "equipment" : "Kaardid ja infomaterjalid puhkamisvõimaluste kohta riigimetsas; suur puutetundlik ekraan, millel kuvatakse interaktiivne metsaväärtuste kaart. Üleval vahetuvad näitused.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/tallinna-teabepunkt",
             "location" : "Toompuiestee 24, Tallinn",
             "name" : "Tallinna teabepunkt",
@@ -10769,7 +10442,7 @@
          "properties" : {
             "coord_x" : 665006,
             "coord_y" : 6504470,
-            "equipment" : "Laud-pingid varikatusega, kattega lõkkease, pingid ja puude varjualune. Lubatud telkimine (kuni 7 telki).",
+            "equipment" : "Laud-pingid varikatusega, kattega lõkkease, pingid ja puude varjualune. ",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1634",
@@ -10875,7 +10548,7 @@
          "properties" : {
             "coord_x" : 639203,
             "coord_y" : 6386315,
-            "equipment" : "Lõkkekohas on 2 lõkkeaset, 2 käimlat, puukuur katusealuse lavatsiga, katusealusega laud ja kiik. Ruumi 10 telgile.",
+            "equipment" : "Lõkkekohas on 2 lõkkeaset, 2 käimlat, puukuur katusealuse lavatsiga, katusealusega laud ja kiik.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1444",
@@ -10916,8 +10589,9 @@
          "properties" : {
             "coord_x" : 649427,
             "coord_y" : 6476673,
-            "equipment" : "Infotahvel, parkla,  2-kohaline käimla, süvendatud tiigid, sillad, 2 kohas laud-pingid varikatusega, lõkkeasemed lõkkerestiga ja puude varjualused. Ruumi 3 telgile. Alguse saavad Ilmatsalu ja Tüki rattarajad.",
+            "equipment" : "Infotahvel, parkla,  2-kohaline käimla, süvendatud tiigid, sillad, 2 kohas laud-pingid varikatusega, lõkkeasemed lõkkerestiga ja puude varjualused.",
             "has_firesite" : 1,
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1649",
             "location" : "Tähtvere vald, Tartumaa. Ilmatsalu asulast 2 km põhja suunas.",
             "name" : "Tenno lõkkekoht",
@@ -10937,7 +10611,7 @@
          "properties" : {
             "coord_x" : 592181,
             "coord_y" : 6427889,
-            "equipment" : "Parklas kaetud lõkkekoht, infotahvel, avar katusealune, käimla, puukuur, puidust postidega eraldatud telkimiskoht kolmele telgile, jalgrattahoidja.",
+            "equipment" : "Parklas kaetud lõkkekoht, infotahvel, avar katusealune, käimla, puukuur, puidust postidega eraldatud telkimiskoht, jalgrattahoidja.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/10638",
@@ -10983,7 +10657,7 @@
             "coord_y" : 6524841,
             "equipment" : "Onnis on küttekolle grillrestiga, seina ääres pingid. Kuivkäimla.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1589",
-            "location" : "Tihu matkaraja ääres, 300 meetrit raja algusest vasakut kätt metsas sees, objekt nr 37 puhkeala kaardil.",
+            "location" : "Tihu õpperaja ääres, 300 meetrit raja algusest vasakut kätt metsas sees, objekt nr 37 puhkeala kaardil.",
             "name" : "Tihu metsaonn",
             "sights" : "Tihu järv huvitava vee- ja soolinnustikuga. Tihu õpperajalt viib Tihu järvele 200 m laudteed, mis lõppeb vaateplatvormiga.",
             "type" : "metsaonn"
@@ -11026,7 +10700,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/osmussaare-maastikukaitseala/1212",
-            "location" : "Osmussaarel, Noarootsi vallas, Läänemaal.",
+            "location" : "Osmussaarel Noarootsi vallas Läänemaal.",
             "name" : "Tiidu lõkkekoht",
             "sights" : "jäänukjärved, bretšad, militarne pärandkultuur",
             "type" : "lõkkekoht"
@@ -11044,7 +10718,7 @@
          "properties" : {
             "coord_x" : 655662,
             "coord_y" : 6475982,
-            "equipment" : "2 varikatusega laud-pinki, 2 kattega lõkkeaset, kompostkäimla ja infostend. Lubatud telkimine (kuni 5 telki).",
+            "equipment" : "2 varikatusega laud-pinki, 2 kattega lõkkeaset, kompostkäimla ja infostend.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tartu-jogeva-puhkeala/1656",
@@ -11150,7 +10824,7 @@
          "properties" : {
             "coord_x" : 478107,
             "coord_y" : 6564088,
-            "equipment" : "pink ja teabetahvel, kevadel mõnus ujumiskoht",
+            "equipment" : "Pink ja teabetahvel, kevadel mõnus ujumiskoht.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/1472",
             "location" : "Toatsejärve põhjakaldal Peraküla külas Nõva vallas Läänemaal. Puhkeala kaardil objekt nr 13.",
             "name" : "Toatsejärve puhkekoht",
@@ -11169,7 +10843,7 @@
          "properties" : {
             "coord_x" : 631134,
             "coord_y" : 6528556,
-            "equipment" : "Infotahvel, vabaõhulava koos 20 pingiga, lõkkease ning pingid (6 tk), laud, 2-kohaline käimla. Telkimine lubatud kuni 10 telgile.",
+            "equipment" : "Infotahvel, vabaõhulava koos 20 pingiga, lõkkease ning pingid (6 tk), laud, 2-kohaline käimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/endla-looduskaitseala/8541",
             "location" : "Tooma küla, Jõgeva vald, Jõgevamaa.",
@@ -11194,7 +10868,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1670",
-            "location" : "Leisi vallas Triigi poolsaarel, Triigi külas, puhkeala kaardil objekt nr 45.",
+            "location" : "Leisi vallas Triigi poolsaarel Triigi külas, puhkeala kaardil objekt nr 45.",
             "name" : "Triigi telkimisala",
             "sights" : "Väinamere hoiuala Saaremaa osas saab vaadelda merelinde. Läheduses on ka kurvitsalistele meelepärane rannaniitudega Pammana hoiuala. Sisemaal, Purtsa külas, on tähelepanuväärsed Pamma maalinn ning Kooljamäed. Piki mereäärset maanteed sõites võib mõlemal pool Triigit märgata mitut liiki põlispuude juurde viitavaid silte. Kaugele ei jää ka Angla tuulikud ja Karja kirik.",
             "type" : "telkimisala"
@@ -11233,7 +10907,7 @@
          "properties" : {
             "coord_x" : 585668,
             "coord_y" : 6598683,
-            "equipment" : "8 lõkkekohta, neist 2 kaetud lõkkekohta, vaatlustorn, pargis on infotahvlid, taastatud vana mõisakaev ja vana metsapargi puid tutvustav Tsitre puuderada. Telkimisalal on invakäimla.",
+            "equipment" : "7 lõkkekohta, neist 2 kaetud lõkkekohta, vaatlustorn, pargis on infotahvlid, taastatud vana mõisakaev ja vana metsapargi puid tutvustav Tsitre puuderada.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1726",
             "location" : "Kolga lahe ääres Tsitres, endise mõisapargi serval. Objekt nr 15 puhkeala kaardil.",
@@ -11296,7 +10970,8 @@
          "properties" : {
             "coord_x" : 490196,
             "coord_y" : 6492494,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/parnumaa-puhkeala/2815",
+            "equipment" : "Rajal on 4 infotahvlit (1 suur stend maantee ääres ja 3 väiksemat rajal).",
+            "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/koik-kaitsealad/tuhu-matkarada",
             "location" : "Kiska külas Hanila vallas Läänemaal.",
             "name" : "Tuhu matkarada (1km)",
             "type" : "matkarada"
@@ -11377,7 +11052,7 @@
             "coord_y" : 6597616,
             "equipment" : "lahtine lõkkease, mille ümber kaarekujuliselt paigutatud pingid kuni 15 inimesele, väike laud, lõkkepuude varjualune, kuivkäimla, infotahvel",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/tadu-lokkekoht",
-            "location" : "Viimsi vallas, Randvere külas, Tädu matkaraja ääres",
+            "location" : "Viimsi vallas Randvere külas Tädu matkaraja ääres",
             "name" : "Tädu lõkkekoht",
             "type" : "lõkkekoht"
          },
@@ -11420,7 +11095,7 @@
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/1466",
-            "location" : "Tänavjärve idakaldal Padise vallas Läänemaal. Puhkeala kaardil objekt nr 2.",
+            "location" : "Tänavjärve idakaldal Padise vallas Harjumaal. Puhkeala kaardil objekt nr 2.",
             "name" : "Tänavjärve lõkkekoht",
             "sights" : "hea kalastusjärv",
             "type" : "lõkkekoht"
@@ -11460,6 +11135,7 @@
             "coord_x" : 558253,
             "coord_y" : 6476195,
             "equipment" : "Lõkkekoht grillrestiga, katusealune, kuivkäimla, vaatetorn.",
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/soomaa-rahvuspark/1269",
             "location" : "Tipu külas, Kõpu vallas, Viljandimaal. Regio atlas (2004-2009) lk 72 D4.",
             "name" : "Tõramaa puisniidu lõkkekoht",
@@ -11499,10 +11175,10 @@
          "properties" : {
             "coord_x" : 665191,
             "coord_y" : 6391295,
-            "equipment" : "Looduskeskusest võib soovi korral laenutada mõõdulinti ja binoklit",
+            "equipment" : "Külastuskeskusest võib soovi korral laenutada mõõdulinti ja binoklit.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/haanja-karula-puhkeala/1430",
             "location" : "Pähni külas, Varstu vallas Võrumaal.",
-            "name" : "Tõrvandu metsaõpperada (2,5km)",
+            "name" : "Tõrvandu metsaõpperada (2,5 km)",
             "type" : "õpperada"
          },
          "type" : "Feature"
@@ -11518,7 +11194,7 @@
          "properties" : {
             "coord_x" : 424600,
             "coord_y" : 6545259,
-            "equipment" : "Telkimisalal on 7 lõkkekohta, 7 laud-pinki, 2 kuivkäimlat ja prügikonteinerid",
+            "equipment" : "7 kaetud lõkkekohta ja katusega pinklauda, 2 kuivkäimlat, 3 puukuuri, prügikonteinerid suures parklas.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/hiiumaa-puhkeala/1597",
@@ -11607,7 +11283,7 @@
             "coord_y" : 6587171,
             "equipment" : "puidust ja kividest laotud parklapiirded, prügikastid, infotahvel",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/18760",
-            "location" : "Harjumaa, Vääna-Jõesuu ja Keila-Joa asulate vahel, Tallinn-Rannamõisa-Kloogaranna maantee 23. kilomeetril",
+            "location" : "Harjumaal Vääna-Jõesuu ja Keila-Joa asulate vahel, Tallinn-Rannamõisa-Kloogaranna maantee 23. kilomeetril",
             "name" : "Türisalu panga parklad",
             "sights" : "Türisalu pank, Lohusalu laht, Lohusalu poolsaar",
             "type" : "muu"
@@ -11752,7 +11428,7 @@
             "coord_y" : 6564138,
             "equipment" : "Teabetahvel, laudrada mereni",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/uuejoe-parkla",
-            "location" : "Uuejõe kaldal Spithami külas, Noarootsi vallas, Läänemaal. Puhkeala kaardil objekt nr 10.",
+            "location" : "Uuejõe kaldal Spithami külas Noarootsi vallas Läänemaal. Puhkeala kaardil objekt nr 10.",
             "name" : "Uuejõe parkla",
             "sights" : "200 m kaugusel laulva liivaga mererand.",
             "type" : "muu"
@@ -11855,7 +11531,7 @@
             "coord_y" : 6550834,
             "equipment" : "Raja alguses on kaart ja üldinfo, rajal on 4 huvipunkti kirjeldustega, vaatetorn, laudtee, laavuga puhkekoht, lõkkekoht, kuivkäimla.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/1357",
-            "location" : "Ellamaa küla lähistel, Nissi vallas, Harjumaal. Puhkeala kaardil objekt nr 10.",
+            "location" : "Ellamaa küla lähistel, Nissi vallas Harjumaal. Puhkeala kaardil objekt nr 10.",
             "name" : "Valgejärve loodusõpperada (6,5 km)",
             "sights" : "Valgejärve järv ja soo, loomade söödakohad, hundi aed, jahikantsel, allikad, tõrvapõletuse ahi",
             "type" : "õpperada"
@@ -11915,13 +11591,13 @@
          "properties" : {
             "coord_x" : 679943,
             "coord_y" : 6449906,
-            "equipment" : "Matkarajast 1 km laudteed, infotahvlid, autoga juurde sõidetav. Rajal asub lõkkekoht ja vaatetorn.",
+            "equipment" : "Matkarajast 1 km laudteed, infotahvlid, autoga juurde sõidetav. Rajal asub lõkkekoht.",
             "has_firesite" : 1,
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/kiidjarve-kooraste-puhkeala/1481",
             "location" : "Põlvamaal, Vastse-Kuustes, Kiidjärve-Kärsa tee läheduses.",
             "name" : "Valgesoo õpperada (1,9 km)",
-            "sights" : "Valgesoo raba (350 ha), ürgse ilmega põlismets, \"Parunimännik\", 24-meetrine vaatetorn, National Geographicu kollane aken",
+            "sights" : "Valgesoo raba (350 ha), ürgse ilmega põlismets, \"Parunimännik\", National Geographicu kollane aken",
             "type" : "õpperada"
          },
          "type" : "Feature"
@@ -12043,7 +11719,7 @@
             "coord_y" : 6499988,
             "equipment" : "Maja mahutab 9 inimest. Olemas lauad, pingid, kamin ja pliit koos minimaalse toidutegemise inventariga. Teisel korrusel võimalus kaasa võetud magamisvarustusega ööbida. Majas ei ole elektrit. Nii joogi- kui ka tarbevee peab kaasa võtma. Õues on kaetud lõkkekoht ning kuivkäimla.",
             "has_firesite" : 1,
-            "has_tenting" : 1,
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1537",
             "location" : "Rassi külas, Türi vallas, Järvamaal. Tõrvaaugult sõita 1 km Türi poole ja sealt näitab viit vasakule Vanapagana suunas. Türi poolt tulles pöörata Säreverest Pärnu poole ja 3 km pärast vasakule Rassi suunas ning sõita ca 18 km, kuni näitab viit paremale Vanapagana metsamaja poole.",
             "name" : "Vanapagana metsamaja",
@@ -12064,6 +11740,7 @@
             "coord_x" : 579452,
             "coord_y" : 6499976,
             "equipment" : "Rada on tähistatud punase-kollase värviga madalatel postidel. Teabepunktist võimalik saada raja kaarti.",
+            "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/10637",
             "location" : "Rassi külas, Türi vallas, Järvamaal.",
             "name" : "Vanapagana õpperada (3 km)",
@@ -12085,8 +11762,8 @@
             "coord_y" : 6544659,
             "equipment" : "2 katusega puhkekohta, katusega lava.Parklas 2 kahekohalist käimlat, 2 infotahvlit linnuse skeemi ja üldinfoga.",
             "has_tenting" : -1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1354",
-            "location" : "Varbola küla lähistel, Märjamaa vallas, Raplamaal",
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/1354",
+            "location" : "Varbola küla lähistel, Märjamaa vallas Raplamaal",
             "name" : "Varbola linnus",
             "sights" : "linnusevall, taastatud läänevärav, rammimismasin, vana kaev, tammik, kiviheitemasin",
             "type" : "muu"
@@ -12106,8 +11783,8 @@
             "coord_y" : 6544861,
             "equipment" : "2 lõkkekohta, 4 katusega puhkekohta, 2-kohaline kuivkäimla, puurkaev, telkimisvõimalus 10 telgile",
             "has_tenting" : 1,
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/1355",
-            "location" : "Varbola küla lähistel, Märjamaa vallas, Raplamaal",
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/1355",
+            "location" : "Varbola küla lähistel, Märjamaa vallas Raplamaal",
             "name" : "Varbola linnuse telkimisala",
             "sights" : "Varbola linnus",
             "type" : "telkimisala"
@@ -12191,7 +11868,7 @@
             "coord_y" : 6482058,
             "equipment" : "Infotahvel, vaateplatvorm, 20 meetrine trepp mere äärde. Lõkke tegemine keelatud.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/saaremaa-puhkeala/1686",
-            "location" : "Kihelkonna vallas, Veere külas, Veere sadama juures. Regio atlas lk 60 C4, puhkeala kaardil objekt nr 29.",
+            "location" : "Kihelkonna vallas Veere külas Veere sadama juures. Regio atlas lk 60 C4, puhkeala kaardil objekt nr 29.",
             "name" : "Veere vaateplatvorm",
             "sights" : "Vahetus läheduses mälestuskivi Eesti esimesele kalurikolhoosile, Veere sadam, Teesuu ja Kesknõmme looduskaitsealad, Tagamõisa puisniit, Vilsandi rahvuspark.",
             "type" : "vaatetorn"
@@ -12292,7 +11969,7 @@
          "properties" : {
             "coord_x" : 484824,
             "coord_y" : 6560134,
-            "equipment" : "Teabetahvel tuleohutuse ja kivisisaliku ning kõre kohta",
+            "equipment" : "Teabetahvel tuleohutuse ning kivisisaliku ja kõre kohta.",
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/nova-puhkeala/veski-karjaari-puhkekoht",
             "location" : "Nõmmemaa küla, Nõva vald, Läänemaa",
             "name" : "Veski karjääri puhkekoht",
@@ -12438,32 +12115,12 @@
          "properties" : {
             "coord_x" : 546248,
             "coord_y" : 6597749,
-            "equipment" : "püsinäitus \"Metsas on väge!\" soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammid lastele ja täiskasvanuteleõppepäevad metsa ja loodusega seotud teemadelmetsa- ja loodusteemalised üritusedteabematerjalid ja info RMK poolt pakutavate metsapuhkuse võimaluste kohtateabekogu – ajakirjad, raamatud, filmidvõimalik rentida looduskeskuse ruume nõupidamisteks, seminarideks, koolitusteks; kuni 3 tundi 13 EUR /tund, terveks päevaks 65 EUR",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/viimsi-looduskeskus",
+            "equipment" : "püsinäitus \"Metsas on väge!\" soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügisel tasulised loodusõppeprogrammid lastele ja täiskasvanuteleõppepäevad metsa ja loodusega seotud teemadelmetsa- ja loodusteemalised üritusedteabematerjalid ja info RMK poolt pakutavate metsapuhkuse võimaluste kohtateabekogu – ajakirjad, raamatud, filmidvõimalik rentida külastuskeskuse ruume nõupidamisteks, seminarideks, koolitusteks; kuni 3 tundi 15 EUR /tund, terveks päevaks 70 EUR",
+            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/viimsi-kulastuskeskus",
             "location" : "Rohuneeme tee 29, Haabneeme alevik, 74001 Viimsi vald Harjumaa",
-            "name" : "Viimsi looduskeskus",
-            "sights" : "Looduskeskus asub Tallinna ümbruse puhkealal, mille lähiümbruses asuvad Viimsi Vabaõhumuuseum ja Rannarahva Muuseum. Samuti on külastamist väärt Haabneeme rand.",
-            "type" : "looduskeskus"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               24.816875,
-               59.514835
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "coord_x" : 546248,
-            "coord_y" : 6597749,
-            "equipment" : "teabematerjalid kõikide puhkealade ja rahvusparkide kohta; võimalus tutvuda kohapeal teabekoguga, mis sisaldab loodusteemalisi raamatuid ja filme; vaadata näitusi",
-            "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/5381",
-            "location" : "Harjumaa, Viimsi vald, Haabneeme, Rohuneeme tee 29",
-            "name" : "Viimsi teabepunkt",
-            "sights" : "Teabepunktist saab infomaterjale RMK poolt Eesti riigimetsa loodud puhkamisvõimaluste kohta. Teabepunkti lähistel asub Haabneeme rand.",
-            "type" : "teabepunkt"
+            "name" : "Viimsi külastuskeskus",
+            "sights" : "Külastuskeskus asub Tallinna ümbruse puhkealal, mille lähiümbruses asuvad Viimsi Vabaõhumuuseum ja Rannarahva Muuseum. Samuti on külastamist väärt Haabneeme rand.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -12543,12 +12200,12 @@
          "properties" : {
             "coord_x" : 384010,
             "coord_y" : 6467530,
-            "equipment" : "Näitusemajas ekspositsioon Vilsandi rahvuspargist, saal, WiFi, WC, audiovisuaalne tehnika, loodusfilmid, joogivee automaat. Kivististe püsinäitus kivimajas, vahetatavad näitused, mäng lastele, kaardimaterjal ja Eesti loodust ning metsi tutvustavad materjalid.",
+            "equipment" : "soodusprogrammid üldhariduskoolidele ja lasteaedadele talvel, kevadel ja sügiseltasulised loodusõppeprogrammidteabematerjalid ja info Saaremaa ning teiste RMK puhkealade kohta (RMK puhkealade, kaitsealade ja matkaradade rebitavad kaardid on tasulised, hind 10 eurosenti/tk)võimalik tutvuda näituste ja keskuse teabekogugametsa- ja loodusteemalised sündmusedNäitusemajas ekspositsioon Vilsandi rahvuspargist, saal, WiFi, WC, audiovisuaalne tehnika, loodusfilmid, joogivee automaat.Kivististe püsinäitus kivimajas, vahetatavad näitused, mäng lastele",
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/vilsandi-rahvuspark/1737",
             "location" : "Loona küla, Kihelkonna vald, Saare maakond. Puhkeala kaardil objekt nr.16",
-            "name" : "Vilsandi rahvuspargi teabepunkt",
-            "sights" : "Loona mõisa kompleks koos sissesõidu allee ja karja-aiaga. Vilsandi rahvuspark on kui botaanikaaed ja ajaloomuuseum. Teabepunkti taga neoliitikumiaegne külaase, kivikirstkalme. Läheduses Saaremaa kirjanike A.Hindi, H.Ranna, A.Mälguga seotud paigad. Vilsandi rahvuspargi floora ja fauna. Kihelkonna alevik Eesti ühe vanima kiriku ja kellakojaga. Läheduses Viidumäe looduskaitseala ja Odalätsi maastikukaitseala. Eesti esimeste bioloogiajaamade asukohad.",
-            "type" : "teabepunkt"
+            "name" : "Vilsandi rahvuspargi külastuskeskus",
+            "sights" : "Loona mõisa kompleks koos sissesõidu allee ja karja-aiaga. Vilsandi rahvuspark on kui botaanikaaed ja ajaloomuuseum. Külastuskeskuse taga neoliitikumiaegne külaase, kivikirstkalme. Läheduses Saaremaa kirjanike A.Hindi, H.Ranna, A.Mälguga seotud paigad. Vilsandi rahvuspargi floora ja fauna. Kihelkonna alevik Eesti ühe vanima kiriku ja kellakojaga. Läheduses Viidumäe looduskaitseala ja Odalätsi maastikukaitseala. Eesti esimeste bioloogiajaamade asukohad.",
+            "type" : "külastuskeskus"
          },
          "type" : "Feature"
       },
@@ -12627,8 +12284,7 @@
          "properties" : {
             "coord_x" : 663853,
             "coord_y" : 6432631,
-            "equipment" : "kattega lõkkease, laud-pink katusega, pingid, puude varjualune, lisaks infostend ja käimla.",
-            "has_firesite" : 1,
+            "equipment" : "grill-restiga lõkkease, laud-pink katusega, pingid, puude varjualune, lisaks infostend ja käimla.",
             "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/puhkealad/kiidjarve-kooraste-puhkeala/1498",
             "location" : "Põlvamaal, Kanepi-Ihamaru tee lähedal, Vähkjärve ääres.",
@@ -12838,7 +12494,7 @@
             "coord_y" : 6540515,
             "equipment" : "vaatetorn",
             "href" : "http://loodusegakoos.ee/kuhuminna/kaitsealad/silma-looduskaitseala/vonnussaare-vaatetorn",
-            "location" : "Noarootsi vald Läänemaa",
+            "location" : "Noarootsi vald, Läänemaa",
             "name" : "Võnnussaare vaatetorn",
             "sights" : "Võnnusaare vaatetorni juurest lõunapoole edasi jalutades võib külastada Loode-Eesti suurimaid rändrahne - Kalevipoja kive.",
             "type" : "vaatetorn"
@@ -12858,7 +12514,7 @@
             "coord_y" : 6605037,
             "equipment" : "2 kaetud lõkkekohta, 1 varikatusega laud, joogivesi 30 m kaugusel, käimla",
             "has_firesite" : 1,
-            "has_tenting" : -1,
+            "has_tenting" : 1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/1720",
             "location" : "Võsu alevi lõunaserval, Võsu-Metsanurgal, Võsu jõe ääres. Objekt nr 6 puhkeala kaardil.",
             "name" : "Võsu telkimisala",
@@ -12880,7 +12536,7 @@
             "equipment" : "Rajal on võimalik matkata ka jalgrattal, kui ratast raskemates kohtades käe kõrval lükata. Peatuda saab Nõmmeveski lõkkekohas, kus võib ka telkida.",
             "has_tenting" : -1,
             "href" : "http://loodusegakoos.ee/kuhuminna/rahvuspargid/lahemaa-rahvuspark/vosu-nommeveski-matkarada",
-            "location" : "Algab Võsu telkimisalalt ja suundub Nõmmeveskile. Objekt nr 7 puhkeala kaardil.",
+            "location" : "Algab Võsu telkimisalalt ja suundub Nõmmeveskile.",
             "name" : "Võsu-Nõmmeveski matkarada (18 km)",
             "sights" : "Rada kulgeb algul mööda vanu metsateid, siis läbi Võhma põlisküla, kus kohtab eelajaloolise asustuse jälgi (Tandemäe kalmed). Pärast metsalõigu läbimist jõuab rada Joaveskile (astang) ja sealt edasi Nõmmeveskile (kanjon ja astang).",
             "type" : "matkarada"
